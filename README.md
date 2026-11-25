@@ -34,6 +34,9 @@ Regras de cada registro:
 
 - **Checagem semanal das fontes** (`.github/workflows/verificar-fontes.yml`): toda segunda às 8h de Salvador, o GitHub testa se cada fonte responde e grava o resultado em `data/fontes.json`. Ela **não** descobre nem grava eventos.
 - Pode ser rodada à mão na aba **Actions → Checar fontes da agenda → Run workflow**.
+- **Coleta de candidatos** (`.github/workflows/coletar.yml`): segundas e quintas às 7h de Salvador, o GitHub lê as bilheterias, agendas e espaços do catálogo e abre uma issue "Candidatos a evento" na aba **Issues** com o que ainda não está na agenda. Nada entra no site sem conferência: abra a página oficial de cada candidato e, se estiver tudo certo, acrescente o evento em `data/eventos.json`.
+- **Banners dos eventos** (`.github/workflows/imagens.yml`): sempre que `data/eventos.json` muda (e toda segunda), busca a imagem de divulgação na página oficial de cada evento novo e grava o campo `imagem`. Sem imagem, o card usa a arte padrão.
+- A data de "Agenda atualizada em" no topo do site vem do campo `atualizado_em` de `data/eventos.json`: atualize-o a cada revisão.
 
 ## Correções do público
 

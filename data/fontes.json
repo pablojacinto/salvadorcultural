@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-25T07:30:00-03:00",
+ "atualizado_em": "2026-11-25T11:20:00-03:00",
  "fontes": [
   {
    "source_name": "Salvador da Bahia — agenda oficial",
@@ -7,7 +7,7 @@
    "cidade": "Salvador",
    "tipo": "agenda",
    "status_acesso": "acessível (consulta manual pelo navegador)",
-   "ultima_consulta": "2026-11-25T07:30:00-03:00",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00",
    "consulta_automatica": {
     "em": "2026-11-25T10:19:28.136Z",
     "resultado": "respondeu"
@@ -55,7 +55,7 @@
    "cidade": "Salvador",
    "tipo": "bilheteria",
    "status_acesso": "acessível (consulta manual pelo navegador)",
-   "ultima_consulta": "2026-11-25T07:30:00-03:00",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00",
    "consulta_automatica": {
     "em": "2026-11-25T10:19:28.136Z",
     "resultado": "bloqueou acesso automático (HTTP 429)"
@@ -78,8 +78,8 @@
    "source_url": "https://ingresse.com/",
    "cidade": "Salvador",
    "tipo": "bilheteria",
-   "status_acesso": "ainda não consultada",
-   "ultima_consulta": null,
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00",
    "consulta_automatica": {
     "em": "2026-11-25T10:19:28.136Z",
     "resultado": "bloqueou acesso automático (HTTP 403)"
@@ -91,7 +91,7 @@
    "cidade": "Salvador",
    "tipo": "bilheteria",
    "status_acesso": "acessível (consulta manual pelo navegador)",
-   "ultima_consulta": "2026-11-25T07:30:00-03:00",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00",
    "consulta_automatica": {
     "em": "2026-11-25T10:19:28.136Z",
     "resultado": "respondeu"
@@ -114,8 +114,8 @@
    "source_url": "https://www.eventim.com.br/city/salvador-1143/",
    "cidade": "Salvador",
    "tipo": "bilheteria",
-   "status_acesso": "ainda não consultada",
-   "ultima_consulta": null,
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00",
    "consulta_automatica": {
     "em": "2026-11-25T10:19:28.136Z",
     "resultado": "sem resposta em 20s"
@@ -126,8 +126,8 @@
    "source_url": "https://www.bilheteriadigital.com/busca/salvador",
    "cidade": "Salvador",
    "tipo": "bilheteria",
-   "status_acesso": "ainda não consultada",
-   "ultima_consulta": null,
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00",
    "consulta_automatica": {
     "em": "2026-11-25T10:19:28.136Z",
     "resultado": "respondeu"
@@ -162,8 +162,8 @@
    "source_url": "https://www.ticketmaster.com.br/",
    "cidade": "Salvador",
    "tipo": "bilheteria",
-   "status_acesso": "ainda não consultada",
-   "ultima_consulta": null,
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00",
    "consulta_automatica": {
     "em": "2026-11-25T10:19:28.136Z",
     "resultado": "bloqueou acesso automático (HTTP 403)"
@@ -174,8 +174,8 @@
    "source_url": "https://vendas.boratickets.com.br/",
    "cidade": "Salvador",
    "tipo": "bilheteria",
-   "status_acesso": "ainda não consultada",
-   "ultima_consulta": null,
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00",
    "consulta_automatica": {
     "em": "2026-11-25T10:19:28.136Z",
     "resultado": "respondeu"
@@ -186,8 +186,8 @@
    "source_url": "https://www.pida.com.br/eventos",
    "cidade": "Salvador",
    "tipo": "bilheteria",
-   "status_acesso": "ainda não consultada",
-   "ultima_consulta": null,
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00",
    "consulta_automatica": {
     "em": "2026-11-25T10:19:28.136Z",
     "resultado": "respondeu"
@@ -402,8 +402,8 @@
    "source_url": "https://muncab.com.br/",
    "cidade": "Salvador",
    "tipo": "espaço",
-   "status_acesso": "ainda não consultada",
-   "ultima_consulta": null,
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00",
    "consulta_automatica": {
     "em": "2026-11-25T10:19:28.136Z",
     "resultado": "bloqueou acesso automático (HTTP 403)"
@@ -426,8 +426,8 @@
    "source_url": "https://ccbb.com.br/salvador/programacao/",
    "cidade": "Salvador",
    "tipo": "espaço",
-   "status_acesso": "ainda não consultada",
-   "ultima_consulta": null,
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00",
    "consulta_automatica": {
     "em": "2026-11-25T10:19:28.136Z",
     "resultado": "respondeu"
@@ -450,8 +450,8 @@
    "source_url": "https://teatrogamboa.com.br/agenda/",
    "cidade": "Salvador",
    "tipo": "espaço",
-   "status_acesso": "ainda não consultada",
-   "ultima_consulta": null,
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00",
    "consulta_automatica": {
     "em": "2026-11-25T10:19:28.136Z",
     "resultado": "respondeu"
@@ -498,8 +498,8 @@
    "source_url": "https://www.goethe.de/ins/br/pt/sta/sal/ver.cfm",
    "cidade": "Salvador",
    "tipo": "espaço",
-   "status_acesso": "ainda não consultada",
-   "ultima_consulta": null,
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00",
    "consulta_automatica": {
     "em": "2026-11-25T10:19:28.136Z",
     "resultado": "bloqueou acesso automático (HTTP 403)"
@@ -510,8 +510,8 @@
    "source_url": "https://casarosasalvador.com.br/programacao/mes/",
    "cidade": "Salvador",
    "tipo": "espaço",
-   "status_acesso": "ainda não consultada",
-   "ultima_consulta": null,
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00",
    "consulta_automatica": {
     "em": "2026-11-25T10:19:28.136Z",
     "resultado": "respondeu"
@@ -660,6 +660,110 @@
     "em": "2026-11-25T10:19:28.136Z",
     "resultado": "não verificada automaticamente (exige login)"
    }
+  },
+  {
+   "source_name": "Balcão de Ingressos",
+   "source_url": "https://www.balcaodeingressos.com/",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00"
+  },
+  {
+   "source_name": "Ingra Tickets",
+   "source_url": "https://ingratickets.com.br/",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00"
+  },
+  {
+   "source_name": "Uhuu",
+   "source_url": "https://uhuu.com/",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00"
+  },
+  {
+   "source_name": "Guichê Web",
+   "source_url": "https://www.guicheweb.com.br/",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00"
+  },
+  {
+   "source_name": "Zig Tickets",
+   "source_url": "https://zig.tickets/",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00"
+  },
+  {
+   "source_name": "AppTicket — Bahia",
+   "source_url": "https://appticket.com.br/estado/bahia",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00"
+  },
+  {
+   "source_name": "Eventbrite — Salvador",
+   "source_url": "https://www.eventbrite.com.br/d/brazil--salvador/events/",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00"
+  },
+  {
+   "source_name": "Ticket360",
+   "source_url": "https://www.ticket360.com.br/",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00"
+  },
+  {
+   "source_name": "Outgo",
+   "source_url": "https://outgo.com.br/",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00"
+  },
+  {
+   "source_name": "Blueticket",
+   "source_url": "https://www.blueticket.com.br/",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00"
+  },
+  {
+   "source_name": "IPAC — notícias (museus estaduais)",
+   "source_url": "https://www.ba.gov.br/ipac/noticias",
+   "cidade": "Salvador",
+   "tipo": "agenda",
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00"
+  },
+  {
+   "source_name": "O Que Fazer em Salvador — Instagram",
+   "source_url": "https://www.instagram.com/oquefazeremsalvador/",
+   "cidade": "Salvador",
+   "tipo": "rede social",
+   "status_acesso": "lida como pista (perfil público; eventos confirmados na fonte oficial)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00"
+  },
+  {
+   "source_name": "Salvador Agenda — Instagram",
+   "source_url": "https://www.instagram.com/salvadoragenda/",
+   "cidade": "Salvador",
+   "tipo": "rede social",
+   "status_acesso": "lida como pista (perfil público; eventos confirmados na fonte oficial)",
+   "ultima_consulta": "2026-11-25T11:20:00-03:00"
   }
  ],
  "ultima_checagem_automatica": "2026-11-25T10:19:28.136Z"

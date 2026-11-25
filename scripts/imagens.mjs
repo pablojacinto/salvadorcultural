@@ -57,5 +57,5 @@ const conta = {};
 for (const e of dados.eventos) if (e.imagem) conta[e.imagem] = (conta[e.imagem] || 0) + 1;
 for (const e of dados.eventos) if (e.imagem && conta[e.imagem] >= 3) delete e.imagem;
 
-await writeFile(ARQ, JSON.stringify(dados, null, 2) + "\n");
+await writeFile(ARQ, JSON.stringify(dados, null, 1) + "\n");
 console.log(`Imagens novas: ${novas}. Eventos com imagem: ${dados.eventos.filter((e) => e.imagem).length}/${dados.eventos.length}.`);

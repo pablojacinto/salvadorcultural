@@ -90,6 +90,12 @@ const PAGINAS = [
   ["eventim", "https://www.eventim.com.br/city/salvador-1143/", /eventim\.com\.br\/(event|artist)\//],
   ["ingresse", "https://www.ingresse.com/", null],
   ["casarosa-bileto", "https://site.bileto.sympla.com.br/casarosa/", null],
+  ["balcao", "https://www.balcaodeingressos.com/", /balcaodeingressos\.com\/evento\//],
+  ["ingra", "https://ingratickets.com.br/", /ingratickets\.com\.br\/evento\//],
+  ["uhuu", "https://uhuu.com/", /uhuu\.com\/evento\/ba\/salvador\//],
+  ["guicheweb", "https://www.guicheweb.com.br/", null],
+  ["zig", "https://zig.tickets/", /zig\.tickets\/evento\//],
+  ["appticket", "https://appticket.com.br/estado/bahia", null],
   // agendas independentes
   ["agendasalvador-musica", "https://agendasalvador.com.br/salvador/musica", /agendasalvador\.com\.br\/evento/],
   ["agendasalvador-teatro", "https://agendasalvador.com.br/salvador/teatro", /agendasalvador\.com\.br\/evento/],
