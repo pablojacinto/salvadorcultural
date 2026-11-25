@@ -1,0 +1,500 @@
+{
+ "atualizado_em": "2026-11-25T07:30:00-03:00",
+ "fontes": [
+  {
+   "source_name": "Salvador da Bahia — agenda oficial",
+   "source_url": "https://www.salvadordabahia.com/agenda/",
+   "cidade": "Salvador",
+   "tipo": "agenda",
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T07:30:00-03:00",
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Salvador da Bahia — calendário do verão 2026/2027",
+   "source_url": "https://www.salvadordabahia.com/eventos/calendario-do-verao-de-salvador-2026-2027-programacao-completa/",
+   "cidade": "Salvador",
+   "tipo": "agenda",
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T07:30:00-03:00",
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Salvador da Bahia — shows e festas",
+   "source_url": "https://www.salvadordabahia.com/categoria-agenda/shows-e-festas/",
+   "cidade": "Salvador",
+   "tipo": "agenda",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Salvador da Bahia — roteiro LGBTQIA+",
+   "source_url": "https://www.salvadordabahia.com/roteiros/um-roteiro-lgbtqia-em-salvador/",
+   "cidade": "Salvador",
+   "tipo": "agenda",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Shotgun — Salvador",
+   "source_url": "https://shotgun.live/pt-br/cities/salvador",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T07:30:00-03:00",
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Shotgun — Manifesto",
+   "source_url": "https://shotgun.live/pt-br/venues/manifesto",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Ingresse",
+   "source_url": "https://ingresse.com/",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Sympla — Salvador",
+   "source_url": "https://www.sympla.com.br/eventos/salvador-ba",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "acessível (consulta manual pelo navegador)",
+   "ultima_consulta": "2026-11-25T07:30:00-03:00",
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Sympla Bileto — Casa Rosa",
+   "source_url": "https://site.bileto.sympla.com.br/casarosa/",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Eventim — Salvador",
+   "source_url": "https://www.eventim.com.br/city/salvador-1143/",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Bilheteria Digital — Salvador",
+   "source_url": "https://www.bilheteriadigital.com/busca/salvador",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Ticketmaker",
+   "source_url": "https://www.ticketmaker.com.br/",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Ticketmaker — eventos",
+   "source_url": "https://vendas.ticketmaker.com.br/Eventos",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Ticketmaster Brasil",
+   "source_url": "https://www.ticketmaster.com.br/",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Bora Tickets",
+   "source_url": "https://vendas.boratickets.com.br/",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Pida — eventos",
+   "source_url": "https://www.pida.com.br/eventos",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Nokta Tickets — Salvador",
+   "source_url": "https://www.noktatickets.com.br/eventos/em/salvador",
+   "cidade": "Salvador",
+   "tipo": "bilheteria",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Agenda Salvador — Música",
+   "source_url": "https://agendasalvador.com.br/salvador/musica",
+   "cidade": "Salvador",
+   "tipo": "agenda",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Agenda Salvador — Teatro",
+   "source_url": "https://agendasalvador.com.br/salvador/teatro",
+   "cidade": "Salvador",
+   "tipo": "agenda",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Agenda Salvador — Rio Vermelho",
+   "source_url": "https://agendasalvador.com.br/salvador/rio-vermelho",
+   "cidade": "Salvador",
+   "tipo": "agenda",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Agenda Salvador — Centro",
+   "source_url": "https://agendasalvador.com.br/salvador/centro",
+   "cidade": "Salvador",
+   "tipo": "agenda",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Rapana — Salvador",
+   "source_url": "https://rapana.com.br/salvador/eventos",
+   "cidade": "Salvador",
+   "tipo": "agenda",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Agenda Arte e Cultura",
+   "source_url": "https://www.agendartecultura.com.br/",
+   "cidade": "Salvador",
+   "tipo": "agenda",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Agenda Cultural Salvador — Teatro",
+   "source_url": "https://www.agendaculturalsalvador.com.br/categoria/teatro-salvador",
+   "cidade": "Salvador",
+   "tipo": "agenda",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "El Cabong",
+   "source_url": "https://elcabong.com.br/",
+   "cidade": "Salvador",
+   "tipo": "agenda",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "SoteroTeatro",
+   "source_url": "https://soteroteatro.com.br/",
+   "cidade": "Salvador",
+   "tipo": "agenda",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Simbora",
+   "source_url": "https://simbora.net/",
+   "cidade": "Salvador",
+   "tipo": "agenda",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Guia Gay Salvador",
+   "source_url": "https://www.guiagaysalvador.com.br/roteiro/",
+   "cidade": "Salvador",
+   "tipo": "agenda",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "BATEKOO — eventos",
+   "source_url": "https://batekoo.com/eventos/",
+   "cidade": "Salvador",
+   "tipo": "produtor",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Movimento Boca de Brasa",
+   "source_url": "https://www.movimentobocadebrasa.com.br/",
+   "cidade": "Salvador",
+   "tipo": "produtor",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "SecultBA — eventos",
+   "source_url": "https://www.ba.gov.br/cultura/eventos",
+   "cidade": "Salvador",
+   "tipo": "agenda",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "FUNCEB — Agenda Cultural Bahia",
+   "source_url": "https://www.ba.gov.br/fundacaocultural/5524/agenda-cultural-bahia",
+   "cidade": "Salvador",
+   "tipo": "agenda",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Teatro Castro Alves",
+   "source_url": "https://www.ba.gov.br/tca/eventos",
+   "cidade": "Salvador",
+   "tipo": "espaço",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "MUNCAB",
+   "source_url": "https://muncab.com.br/",
+   "cidade": "Salvador",
+   "tipo": "espaço",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "CAIXA Cultural Salvador",
+   "source_url": "https://www.caixacultural.gov.br/Paginas/Salvador.aspx",
+   "cidade": "Salvador",
+   "tipo": "espaço",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "CCBB Salvador",
+   "source_url": "https://ccbb.com.br/salvador/programacao/",
+   "cidade": "Salvador",
+   "tipo": "espaço",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Teatro Vila Velha",
+   "source_url": "https://teatrovilavelha.com.br/tempo/",
+   "cidade": "Salvador",
+   "tipo": "espaço",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Teatro Gamboa",
+   "source_url": "https://teatrogamboa.com.br/agenda/",
+   "cidade": "Salvador",
+   "tipo": "espaço",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Teatro Módulo",
+   "source_url": "https://teatromodulo.com.br/programacao",
+   "cidade": "Salvador",
+   "tipo": "espaço",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Sesc Bahia",
+   "source_url": "https://www.sescbahia.com.br/programacao",
+   "cidade": "Salvador",
+   "tipo": "espaço",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Teatro Martim Gonçalves — UFBA",
+   "source_url": "https://teatro.ufba.br/agenda/",
+   "cidade": "Salvador",
+   "tipo": "espaço",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Goethe-Institut Salvador",
+   "source_url": "https://www.goethe.de/ins/br/pt/sta/sal/ver.cfm",
+   "cidade": "Salvador",
+   "tipo": "espaço",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Casa Rosa — programação",
+   "source_url": "https://casarosasalvador.com.br/programacao/mes/",
+   "cidade": "Salvador",
+   "tipo": "espaço",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Fundação Casa de Jorge Amado",
+   "source_url": "https://jorgeamado.org.br/",
+   "cidade": "Salvador",
+   "tipo": "espaço",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Museu Náutico da Bahia",
+   "source_url": "https://www.museunauticodabahia.org.br/eventos/",
+   "cidade": "Salvador",
+   "tipo": "espaço",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Câmara Municipal — Centro de Cultura",
+   "source_url": "https://www.cms.ba.gov.br/CMS/public/agenda",
+   "cidade": "Salvador",
+   "tipo": "espaço",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Âncora do Marujo — Instagram",
+   "source_url": "https://www.instagram.com/ancoradomarujo/",
+   "cidade": "Salvador",
+   "tipo": "rede social",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "SAN Boate — Linktree",
+   "source_url": "https://linktr.ee/SANBOATE",
+   "cidade": "Salvador",
+   "tipo": "rede social",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Amsterdam Pop Club — Instagram",
+   "source_url": "https://www.instagram.com/amsterdamrv/",
+   "cidade": "Salvador",
+   "tipo": "rede social",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Bar da Pri — Instagram",
+   "source_url": "https://www.instagram.com/bardapri/",
+   "cidade": "Salvador",
+   "tipo": "rede social",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Show Bar — Instagram",
+   "source_url": "https://www.instagram.com/showbar.salvador/",
+   "cidade": "Salvador",
+   "tipo": "rede social",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Manifesto — Instagram",
+   "source_url": "https://www.instagram.com/manifesto.ssa/",
+   "cidade": "Salvador",
+   "tipo": "rede social",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Sapaokê — Instagram",
+   "source_url": "https://www.instagram.com/sapaokessa/",
+   "cidade": "Salvador",
+   "tipo": "rede social",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Comunidade Cutelo — Instagram",
+   "source_url": "https://www.instagram.com/cutelo.oficial/",
+   "cidade": "Salvador",
+   "tipo": "rede social",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  },
+  {
+   "source_name": "Shantay — Instagram",
+   "source_url": "https://www.instagram.com/shantay.brasil/",
+   "cidade": "Salvador",
+   "tipo": "rede social",
+   "status_acesso": "ainda não consultada",
+   "ultima_consulta": null,
+   "consulta_automatica": null
+  }
+ ]
+}

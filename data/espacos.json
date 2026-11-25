@@ -1,0 +1,205 @@
+{
+ "atualizado_em": "2026-11-25T07:30:00-03:00",
+ "guia": [
+  {
+   "nome": "MUNCAB",
+   "bairro": "Centro Histórico",
+   "linguagem": "Arte e memória afro-brasileira",
+   "url": "https://muncab.com.br/",
+   "descricao": "Museu Nacional da Cultura Afro-Brasileira, na Rua das Vassouras."
+  },
+  {
+   "nome": "CAIXA Cultural Salvador",
+   "bairro": "Pelourinho e Carlos Gomes",
+   "linguagem": "Exposições, teatro e formação",
+   "url": "https://www.caixacultural.gov.br/Paginas/Salvador.aspx",
+   "descricao": "Duas unidades com exposições gratuitas."
+  },
+  {
+   "nome": "Teatro Castro Alves",
+   "bairro": "Campo Grande",
+   "linguagem": "Música, dança e artes cênicas",
+   "url": "https://www.ba.gov.br/tca/eventos",
+   "descricao": "Principal teatro da Bahia, com a Concha Acústica."
+  },
+  {
+   "nome": "CCBB Salvador",
+   "bairro": "Programação itinerante",
+   "linguagem": "Artes visuais, música, teatro e cinema",
+   "url": "https://ccbb.com.br/salvador/programacao/",
+   "descricao": "Centro Cultural Banco do Brasil."
+  },
+  {
+   "nome": "Teatro Vila Velha",
+   "bairro": "Campo Grande",
+   "linguagem": "Teatro, dança e formação",
+   "url": "https://teatrovilavelha.com.br/tempo/",
+   "descricao": "Teatro histórico no Passeio Público."
+  },
+  {
+   "nome": "Teatro Gamboa",
+   "bairro": "Gamboa de Cima",
+   "linguagem": "Teatro, música e produção independente",
+   "url": "https://teatrogamboa.com.br/agenda/",
+   "descricao": "Palco da cena independente."
+  },
+  {
+   "nome": "Teatro Módulo",
+   "bairro": "Pituba",
+   "linguagem": "Teatro e música",
+   "url": "https://teatromodulo.com.br/programacao",
+   "descricao": ""
+  },
+  {
+   "nome": "Sesc Bahia",
+   "bairro": "Pelourinho e Caminho das Árvores",
+   "linguagem": "Teatro, música e ações formativas",
+   "url": "https://www.sescbahia.com.br/programacao",
+   "descricao": "Inclui o Teatro Sesc Casa do Comércio."
+  },
+  {
+   "nome": "Teatro Martim Gonçalves",
+   "bairro": "Canela",
+   "linguagem": "Artes cênicas universitárias",
+   "url": "https://teatro.ufba.br/agenda/",
+   "descricao": "Teatro da Escola de Teatro da UFBA."
+  },
+  {
+   "nome": "Museu de Arte Moderna da Bahia",
+   "bairro": "Solar do Unhão",
+   "linguagem": "Arte moderna e cinema",
+   "url": "https://www.ba.gov.br/ipac/museu-de-arte-moderna-da-bahia-mam-ba",
+   "descricao": "Inclui a sala de cinema Saladearte CineMAM."
+  },
+  {
+   "nome": "Museu de Arte da Bahia",
+   "bairro": "Corredor da Vitória",
+   "linguagem": "Acervo e exposições",
+   "url": "https://www.ba.gov.br/ipac/museu-de-arte-da-bahia-mab",
+   "descricao": ""
+  },
+  {
+   "nome": "Museu Náutico da Bahia",
+   "bairro": "Barra",
+   "linguagem": "História marítima",
+   "url": "https://www.museunauticodabahia.org.br/eventos/",
+   "descricao": "No Forte de Santo Antônio da Barra."
+  },
+  {
+   "nome": "Goethe-Institut Salvador",
+   "bairro": "Corredor da Vitória",
+   "linguagem": "Cinema, artes e encontros",
+   "url": "https://www.goethe.de/ins/br/pt/sta/sal/ver.cfm",
+   "descricao": ""
+  },
+  {
+   "nome": "Casa Rosa",
+   "bairro": "Rio Vermelho",
+   "linguagem": "Música, teatro e encontros",
+   "url": "https://casarosasalvador.com.br/programacao/mes/",
+   "descricao": "Shows no Pátio Viração."
+  },
+  {
+   "nome": "Fundação Casa de Jorge Amado",
+   "bairro": "Pelourinho",
+   "linguagem": "Literatura e memória",
+   "url": "https://jorgeamado.org.br/",
+   "descricao": ""
+  },
+  {
+   "nome": "Teatro Jorge Amado",
+   "bairro": "Pituba",
+   "linguagem": "Teatro, humor e música",
+   "url": "",
+   "descricao": ""
+  },
+  {
+   "nome": "Teatro Faresi",
+   "bairro": "Ondina",
+   "linguagem": "Humor, teatro e infantil",
+   "url": "",
+   "descricao": ""
+  },
+  {
+   "nome": "Candyall Guetho Square",
+   "bairro": "Candeal",
+   "linguagem": "Música e cultura popular",
+   "url": "",
+   "descricao": "Espaço ligado a Carlinhos Brown e à Timbalada."
+  }
+ ],
+ "noite": [
+  {
+   "nome": "Âncora do Marujo",
+   "bairro": "Dois de Julho",
+   "perfil": "Performances drag e transformistas",
+   "url": "https://www.instagram.com/ancoradomarujo/"
+  },
+  {
+   "nome": "SAN Boate",
+   "bairro": "Rio Vermelho",
+   "perfil": "Boate LGBTQIA+ com festas, DJs e performances",
+   "url": "https://linktr.ee/SANBOATE"
+  },
+  {
+   "nome": "Amsterdam Pop Club",
+   "bairro": "Rio Vermelho",
+   "perfil": "Pista pop e noites queer",
+   "url": "https://www.instagram.com/amsterdamrv/"
+  },
+  {
+   "nome": "Casa Rosa — Pátio Viração",
+   "bairro": "Rio Vermelho",
+   "perfil": "Shows e festas",
+   "url": "https://casarosasalvador.com.br/programacao/mes/"
+  },
+  {
+   "nome": "A Marujada",
+   "bairro": "Santo Antônio Além do Carmo",
+   "perfil": "Festas e música",
+   "url": ""
+  },
+  {
+   "nome": "Casa da Felicidade",
+   "bairro": "Rio Vermelho e Barra",
+   "perfil": "Música ao vivo e festas",
+   "url": ""
+  },
+  {
+   "nome": "Casa da Nigéria",
+   "bairro": "Pelourinho",
+   "perfil": "Festas e música da diáspora africana",
+   "url": ""
+  },
+  {
+   "nome": "Bar da Pri",
+   "bairro": "Santo Antônio Além do Carmo",
+   "perfil": "Bar LGBTQIA+",
+   "url": "https://www.instagram.com/bardapri/"
+  },
+  {
+   "nome": "Bar do Fua",
+   "bairro": "Pelourinho",
+   "perfil": "Bar da diversidade",
+   "url": "https://www.guiagaysalvador.com.br/roteiro/bares/bar-do-fua"
+  },
+  {
+   "nome": "Show Bar",
+   "bairro": "Rio Vermelho",
+   "perfil": "Casa de shows",
+   "url": "https://www.instagram.com/showbar.salvador/"
+  },
+  {
+   "nome": "Manifesto",
+   "bairro": "",
+   "perfil": "Festas e música eletrônica",
+   "url": "https://shotgun.live/pt-br/venues/manifesto"
+  },
+  {
+   "nome": "Trapiche Barnabé",
+   "bairro": "Comércio",
+   "perfil": "Shows e festas",
+   "url": ""
+  }
+ ]
+}

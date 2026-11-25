@@ -1,0 +1,32 @@
+Quero criar um guia digital e uma agenda cultural viva para [CIDADE 1] e [CIDADE 2] (se eu quiser trabalhar só com uma cidade, use apenas [CIDADE]). As cidades serão escolhidas por mim: não presuma Rio de Janeiro, Salvador ou qualquer outro lugar. Antes de produzir dados, confirme quais municípios e estados foram escolhidos e trate cada cidade separadamente para não misturar eventos, espaços, datas, bairros ou fontes.
+
+OBJETIVO
+Crie um site bonito, rápido, acessível e fácil de atualizar que ajude moradores e visitantes a descobrir o que fazer, acompanhar a produção cultural local e conhecer os espaços, artistas, coletivos e iniciativas de cada cidade. A agenda precisa ir além dos eventos mais famosos e reunir programação de diferentes bairros, linguagens, públicos e faixas de preço. O site deve deixar claro de onde veio cada informação e encaminhar a pessoa à página oficial do evento, do espaço ou da bilheteria.
+
+1. LEVANTAMENTO LOCAL ANTES DE CONSTRUIR
+Pesquise cada cidade escolhida. Monte um inventário amplo de fontes atuais: portais oficiais de turismo e cultura, secretarias e fundações municipais e estaduais, calendários públicos, teatros, museus, centros culturais, casas de show, cinemas, bibliotecas, universidades, centros comunitários, espaços independentes, terreiros e manifestações tradicionais, coletivos, produtoras, artistas, festivais, agendas jornalísticas e culturais locais e perfis públicos de redes sociais.
+
+CATÁLOGO PERSISTENTE DE FONTES
+Mantenha um registro separado para cada plataforma, agenda, espaço, produtor ou perfil monitorado, com pelo menos: source_name; source_url; cidade atendida; tipo de fonte (bilheteria, agenda, espaço, produtor ou rede social); status de acesso; e data/hora da última consulta. Esse catálogo deve persistir entre as atualizações. Se uma fonte estiver inacessível, preserve o registro, anote a falha e tente de novo na próxima atualização. Consulte as bilheterias e agendas da cidade (por exemplo Sympla, Shotgun, Ingresse, Eventim, Bilheteria Digital, Ticketmaker, Ticketmaster, Bora Tickets, Pida e Nokta, quando atenderem a cidade) e descubra outras nos sites dos espaços e produtores locais.
+
+Use agregadores e agendas para descobrir eventos; antes de gravar, confirme data, local e, quando houver ingresso pago, link de compra na página individual da bilheteria oficial, do produtor ou do espaço. Não invente perfis, endereços, datas ou parcerias. Se uma página exigir login, estiver bloqueada ou fora do ar, não tente contornar o controle: anote isso e continue nas outras fontes.
+
+2. CATEGORIAS E CONTEÚDO
+Organize a agenda em categorias adequadas à realidade de cada cidade: Música e cultura popular; Teatro e dança; Exposições e museus; Cinema e audiovisual; Literatura e formação; Feiras, festivais e encontros; atividades para crianças e famílias; eventos gratuitos; e Noite, com shows, festas, DJs, performances drag, eventos LGBTQIA+ e outras programações noturnas confirmadas. Crie também um guia de espaços e iniciativas. Não transforme horários habituais de funcionamento em eventos: na agenda entram apenas atividades com data confirmada.
+
+3. VERIFICAÇÃO E REGISTRO DOS EVENTOS
+Inclua somente eventos presenciais que aconteçam nas cidades selecionadas. Não registre anúncios sem data confirmada, eventos já encerrados ou informações especulativas. Verifique os próximos 60 dias. Para uma temporada, grave cada data separadamente quando a fonte informar as sessões; não deduza horários. Para cada registro, salve: título; categoria; data; horário; local; cidade e bairro quando confirmados; descrição curta baseada na fonte; preço ou gratuidade quando publicados; URL da página do evento ou compra; fonte com nome e URL; e data/hora da verificação. Evite duplicatas, atualize registros quando a fonte mudar e não substitua informação verificada por dados menos confiáveis.
+
+4. ATUALIZAÇÃO CONTÍNUA
+Projete um fluxo recorrente para reexaminar as fontes, detectar novidades e alterações, comparar com a base e gravar só atualizações verificadas, sem prometer monitoramento instantâneo. Use apenas páginas públicas e métodos permitidos: não faça login em nome de terceiros nem burle CAPTCHA, bloqueios ou limites. Inclua uma forma simples de pedir atualizações e reportar correções.
+
+5. EXPERIÊNCIA DO SITE
+Página inicial clara, identidade visual inspirada na cidade sem clichês, busca e filtros por categoria, data, bairro e gratuidade, detalhes que levam à fonte original, e navegação para Agenda, Guia de espaços, Noite, Fontes e uma página para compartilhar o projeto. Projete para celular e computador, teclado, leitores de tela, bom contraste e carregamento rápido. Inclua uma área de transparência com as fontes monitoradas, a data da última verificação e as limitações conhecidas, deixando claro que é um guia independente.
+
+6. PUBLICAÇÃO E MANUTENÇÃO
+Publique numa hospedagem que a pessoa tenha (por exemplo GitHub Pages), explique em linguagem simples como manter, atualizar e fazer backup, e não afirme que algo foi publicado, automatizado ou registrado sem que isso tenha sido feito. Antes de terminar, confira menu, navegação, filtros, versão para celular e se todos os eventos têm fonte rastreável.
+
+RESUMO DE CADA ATUALIZAÇÃO
+Ao concluir uma varredura, informe: período coberto; categorias e cidades consultadas; fontes verificadas e inacessíveis; quantidade de eventos novos, atualizados e sem mudança; duplicatas descartadas; e limitações encontradas.
+
+Cidades escolhidas para este projeto: [CIDADE]

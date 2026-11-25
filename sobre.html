@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leve a ideia — Salvador Cultural</title>
+<meta name="description" content="Como o Salvador Cultural funciona, como é atualizado e como criar uma agenda parecida para a sua cidade.">
+<meta name="theme-color" content="#1b3f45">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='16' fill='%23c4563b'/%3E%3Cpath d='M7 13c3-2 6 2 9 0s6-2 9 0M7 18c3-2 6 2 9 0s6-2 9 0' stroke='%23fff' stroke-width='2' fill='none' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400;1,9..144,500&family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="topo">
+  <div class="wrap">
+    <a class="marca" href="./" aria-label="Salvador Cultural, início">
+      <span class="selo" aria-hidden="true"><svg width="20" height="20" viewBox="0 0 20 20"><path d="M2 8c2.6-1.8 5.4 1.8 8 0s5.4-1.8 8 0M2 13c2.6-1.8 5.4 1.8 8 0s5.4-1.8 8 0" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/></svg></span>
+      salvador<span>cultural</span>
+    </a>
+    <nav aria-label="Principal">
+      <button class="menu-btn" aria-expanded="false" aria-controls="menu">Menu</button>
+      <ul class="menu" id="menu">
+        <li><a href="./#agenda">Agenda</a></li>
+        <li><a href="./#guia">Guia de espaços</a></li>
+        <li><a href="./#noite">Noite</a></li>
+        <li><a href="./#fontes">Fontes</a></li>
+        <li><a href="sobre.html" aria-current="page">Leve a ideia</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main class="pagina">
+  <div class="wrap prosa">
+    <p class="sobretitulo">Leve a ideia</p>
+    <h1>Uma agenda feita com <em class="acento">fontes.</em></h1>
+    <p>O Salvador Cultural reúne a programação cultural da cidade em um só lugar e manda você sempre para a página oficial do evento. Ele é um site estático hospedado no GitHub Pages: não tem banco de dados nem login, e os dados ficam em arquivos abertos dentro do próprio repositório.</p>
+
+    <h2>Como a agenda é atualizada</h2>
+    <ul>
+      <li><strong>Varredura e verificação:</strong> as bilheterias e agendas do catálogo de fontes são consultadas, e um evento só entra depois de conferido na página individual (data, local e, quando houver, preço e link oficial de compra).</li>
+      <li><strong>Eventos passados somem sozinhos:</strong> o site esconde automaticamente tudo que já terminou, com base na data de Salvador.</li>
+      <li><strong>Checagem automática das fontes:</strong> uma vez por semana, uma rotina do GitHub (GitHub Actions) testa se cada fonte do catálogo responde e registra o resultado na área de Fontes. Ela não descobre eventos sozinha: só avisa quais fontes estão no ar.</li>
+      <li><strong>Correções:</strong> qualquer pessoa pode sugerir um evento ou apontar um erro pelo <a href="https://github.com/pablojacinto/salvadorcultural/issues/new?template=correcao.md">formulário de correção</a>.</li>
+    </ul>
+
+    <h2>Limitações conhecidas</h2>
+    <ul>
+      <li>Redes sociais como o Instagram escondem publicações de quem não está logado; por isso, perfis aparecem só como referência, e eventos vindos de lá precisam ser confirmados em página pública.</li>
+      <li>Algumas bilheterias bloqueiam consultas automáticas; nesses casos a consulta é feita manualmente.</li>
+      <li>Quando a fonte não informa o preço ou o horário de cada sessão, o site diz "consulte a fonte" em vez de completar a informação.</li>
+    </ul>
+
+    <h2>Crie uma agenda para a sua cidade</h2>
+    <p>Este é o roteiro usado para pensar o projeto. Troque <code>[CIDADE]</code> pela sua cidade e use com um assistente de IA.</p>
+    <div class="caixa-prompt">
+      <div class="barra"><strong>Prompt do projeto</strong><button type="button" class="btn btn-primario" id="copiar">Copiar prompt</button></div>
+      <pre id="prompt" tabindex="0">Carregando…</pre>
+    </div>
+  </div>
+</main>
+
+<footer class="rodape">
+  <div class="wrap">
+    <div><h3>salvador cultural</h3><p>Guia independente da cultura em Salvador, Bahia.</p></div>
+    <div><h3>Navegar</h3><ul><li><a href="./#agenda">Agenda</a></li><li><a href="./#fontes">Fontes</a></li></ul></div>
+    <div><h3>Projeto</h3><ul><li><a href="https://github.com/pablojacinto/salvadorcultural">Código no GitHub</a></li></ul></div>
+  </div>
+</footer>
+<div class="toast" id="toast" role="status"></div>
+<script>
+(() => {
+  const pre = document.getElementById("prompt"), t = document.getElementById("toast");
+  const aviso = (m) => { t.textContent = m; t.classList.add("on"); setTimeout(() => t.classList.remove("on"), 2200); };
+  fetch("data/prompt.txt").then((r) => r.text()).then((x) => { pre.textContent = x; }).catch(() => { pre.textContent = "Não foi possível carregar o prompt."; });
+  document.getElementById("copiar").addEventListener("click", async () => {
+    try { await navigator.clipboard.writeText(pre.textContent); aviso("Prompt copiado"); }
+    catch { const r = document.createRange(); r.selectNodeContents(pre); const s = getSelection(); s.removeAllRanges(); s.addRange(r); aviso("Selecionado: use Ctrl+C para copiar"); }
+  });
+  const mb = document.querySelector(".menu-btn"), menu = document.getElementById("menu");
+  mb.addEventListener("click", () => { const a = menu.classList.toggle("aberto"); mb.setAttribute("aria-expanded", a); });
+})();
+</script>
+</body>
+</html>

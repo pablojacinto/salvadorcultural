@@ -1,0 +1,27 @@
+name: Checar fontes da agenda
+
+on:
+  schedule:
+    - cron: "0 11 * * 1"   # toda segunda-feira, 8h em Salvador
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  checar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Testar cada fonte do catálogo
+        run: node scripts/verificar_fontes.mjs
+      - name: Salvar resultado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/fontes.json
+          git diff --cached --quiet || git commit -m "Checagem automática das fontes"
+          git push
