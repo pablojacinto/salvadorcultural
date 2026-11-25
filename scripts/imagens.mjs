@@ -46,7 +46,11 @@ const achar = (h, base) => {
 
 const dados = JSON.parse(await readFile(ARQ, "utf8"));
 let novas = 0;
+// páginas que listam vários eventos (calendários, programação do mês) não dizem qual imagem é de qual evento
+const porUrl = {};
+for (const e of dados.eventos) porUrl[e.url] = (porUrl[e.url] || 0) + 1;
 for (const e of dados.eventos) {
+  if (porUrl[e.url] > 1) { if (refazer) delete e.imagem; continue; }
   if (e.imagem && !refazer) continue;
   const p = await html(e.url);
   const img = p && achar(p.txt, p.final);
