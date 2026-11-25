@@ -1,7 +1,8 @@
 name: Coletar candidatos a evento
 
 # Baixa páginas públicas das fontes e guarda o retrato na branch "coleta".
-# Os candidatos são conferidos antes de entrar na agenda (data/eventos.json).
+# Depois abre uma issue com os candidatos novos para conferência.
+# Nada entra na agenda (data/eventos.json) sem ser conferido na página oficial.
 on:
   schedule:
     - cron: "0 10 * * 1,4"   # segundas e quintas, 7h em Salvador
@@ -9,19 +10,33 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   coletar:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 100
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
       - name: Coletar
+        timeout-minutes: 80
+        continue-on-error: true
         run: node scripts/coletar.mjs
+      - name: Listar candidatos novos
+        if: always()
+        run: node scripts/candidatos.mjs
+      - name: Abrir issue com os candidatos
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create coleta --color c4563b --description "Candidatos da coleta automática" 2>/dev/null || true
+          gh issue create --title "Candidatos a evento — coleta de $(TZ=America/Bahia date +%d/%m/%Y)" --label coleta --body-file coleta/candidatos.md
       - name: Publicar na branch coleta
+        if: always()
         run: |
           mkdir -p /tmp/saida && cp -r coleta /tmp/saida/
           git config user.name "github-actions[bot]"

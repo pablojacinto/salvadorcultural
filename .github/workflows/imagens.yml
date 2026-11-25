@@ -1,0 +1,38 @@
+name: Buscar banners dos eventos
+
+# Procura a imagem oficial de divulgação (og:image / dados do evento) na página de cada evento
+# que ainda não tem imagem e grava o campo "imagem" em data/eventos.json.
+on:
+  push:
+    branches: [main]
+    paths: ["data/eventos.json"]
+  schedule:
+    - cron: "30 11 * * 1"   # segundas, 8h30 em Salvador
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: imagens
+  cancel-in-progress: false
+
+jobs:
+  imagens:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Buscar imagens
+        run: node scripts/imagens.mjs
+      - name: Salvar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/eventos.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Banners oficiais dos eventos"
+          git pull --rebase -q && git push

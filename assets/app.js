@@ -47,6 +47,7 @@
   const icoHora = `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>`;
   const icoOk = `<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>`;
 
+  const dataHora = (s) => { if (!s) return "—"; const d = new Date(s); return d.toLocaleDateString("pt-BR", { day: "numeric", month: "long", year: "numeric", timeZone: "America/Bahia" }) + ", " + d.toLocaleTimeString("pt-BR", { hour: "2-digit", minute: "2-digit", timeZone: "America/Bahia" }).replace(":", "h"); };
   const dataVerif = (s) => { if (!s) return ""; const d = new Date(s); return d.toLocaleDateString("pt-BR", { day: "2-digit", month: "short", year: "numeric", timeZone: "America/Bahia" }); };
 
   const card = (e, hoje) => {
@@ -59,7 +60,8 @@
     if (e.data_fim) selos.push(e.data <= hoje ? "Em cartaz" : "Temporada");
     if (e.noite) selos.push("Noite");
     return `<article class="card">
-      <div class="card-arte" style="background:${c.cor};color:${c.ink}">
+      <div class="card-arte${e.imagem ? " com-img" : ""}" style="background:${c.cor};color:${c.ink}">
+        ${e.imagem ? `<img src="${esc(e.imagem)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.parentNode.classList.remove('com-img');this.remove()">` : ""}
         <div class="dia"><b>${d.getUTCDate()}</b><span>${MESES[d.getUTCMonth()]}</span></div>
         ${icone(c.ico, c.ink)}
         ${selos.length ? `<div class="selos">${selos.map((s) => `<span class="selo-mini">${s}</span>`).join("")}</div>` : ""}
@@ -237,7 +239,9 @@
       $("#n-eventos").textContent = ativos.length;
       $("#n-gratis").textContent = ativos.filter((e) => e.gratuito).length;
       $("#n-fontes").textContent = fo.fontes.length;
-      $("#ultima-atualizacao").innerHTML = `<strong>Última verificação da agenda:</strong> ${esc(dataVerif(ev.atualizado_em))}.`;
+      const quandoAtual = dataHora(ev.atualizado_em);
+      $("#ultima-atualizacao").innerHTML = `<strong>Última atualização da agenda:</strong> ${esc(quandoAtual)}.`;
+      $("#atualizado-topo").textContent = `Agenda atualizada em ${quandoAtual}`;
       const cats = [...new Set(ativos.map((e) => e.categoria))].sort((a, b) => a.localeCompare(b, "pt"));
       $("#f-cat").innerHTML = [`<button type="button" class="chip" data-v="" aria-pressed="true">Todas</button>`, ...cats.map((c) => `<button type="button" class="chip" data-v="${esc(c)}" aria-pressed="false">${esc(c)}</button>`)].join("");
       const bairros = [...new Set(ativos.map((e) => e.bairro).filter(Boolean))].sort((a, b) => a.localeCompare(b, "pt"));

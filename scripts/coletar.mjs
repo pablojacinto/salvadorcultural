@@ -5,7 +5,7 @@
 import { mkdir, writeFile } from "node:fs/promises";
 
 const UA = "salvadorcultural-coletor/1.0 (+https://pablojacinto.github.io/salvadorcultural/)";
-const PAUSA = 700;
+const PAUSA = 400;
 const dormir = (ms) => new Promise((r) => setTimeout(r, ms));
 const log = [];
 
@@ -143,7 +143,7 @@ async function paginas() {
     const ls = links(r.html, r.final);
     const filhos = [];
     if (seguir) {
-      const alvo = [...new Set(ls.map((l) => l.href).filter((h) => seguir.test(h) && h !== url))].slice(0, 60);
+      const alvo = [...new Set(ls.map((l) => l.href).filter((h) => seguir.test(h) && h !== url))].slice(0, 30);
       for (const u of alvo) {
         const f = await baixar(u);
         if (f) filhos.push({ url: u, texto: semTags(f.html).slice(0, 8000), jsonld: jsonld(f.html) });
