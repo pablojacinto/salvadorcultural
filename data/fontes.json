@@ -8,7 +8,10 @@
    "tipo": "agenda",
    "status_acesso": "acessível (consulta manual pelo navegador)",
    "ultima_consulta": "2026-11-25T07:30:00-03:00",
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Salvador da Bahia — calendário do verão 2026/2027",
@@ -17,7 +20,10 @@
    "tipo": "agenda",
    "status_acesso": "acessível (consulta manual pelo navegador)",
    "ultima_consulta": "2026-11-25T07:30:00-03:00",
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Salvador da Bahia — shows e festas",
@@ -26,7 +32,10 @@
    "tipo": "agenda",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Salvador da Bahia — roteiro LGBTQIA+",
@@ -35,7 +44,10 @@
    "tipo": "agenda",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Shotgun — Salvador",
@@ -44,7 +56,10 @@
    "tipo": "bilheteria",
    "status_acesso": "acessível (consulta manual pelo navegador)",
    "ultima_consulta": "2026-11-25T07:30:00-03:00",
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "bloqueou acesso automático (HTTP 429)"
+   }
   },
   {
    "source_name": "Shotgun — Manifesto",
@@ -53,7 +68,10 @@
    "tipo": "bilheteria",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "bloqueou acesso automático (HTTP 429)"
+   }
   },
   {
    "source_name": "Ingresse",
@@ -62,7 +80,10 @@
    "tipo": "bilheteria",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "bloqueou acesso automático (HTTP 403)"
+   }
   },
   {
    "source_name": "Sympla — Salvador",
@@ -71,7 +92,10 @@
    "tipo": "bilheteria",
    "status_acesso": "acessível (consulta manual pelo navegador)",
    "ultima_consulta": "2026-11-25T07:30:00-03:00",
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Sympla Bileto — Casa Rosa",
@@ -80,7 +104,10 @@
    "tipo": "bilheteria",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Eventim — Salvador",
@@ -89,7 +116,10 @@
    "tipo": "bilheteria",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "sem resposta em 20s"
+   }
   },
   {
    "source_name": "Bilheteria Digital — Salvador",
@@ -98,7 +128,10 @@
    "tipo": "bilheteria",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Ticketmaker",
@@ -107,7 +140,10 @@
    "tipo": "bilheteria",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Ticketmaker — eventos",
@@ -116,7 +152,10 @@
    "tipo": "bilheteria",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Ticketmaster Brasil",
@@ -125,7 +164,10 @@
    "tipo": "bilheteria",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "bloqueou acesso automático (HTTP 403)"
+   }
   },
   {
    "source_name": "Bora Tickets",
@@ -134,7 +176,10 @@
    "tipo": "bilheteria",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Pida — eventos",
@@ -143,7 +188,10 @@
    "tipo": "bilheteria",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Nokta Tickets — Salvador",
@@ -152,7 +200,10 @@
    "tipo": "bilheteria",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Agenda Salvador — Música",
@@ -161,7 +212,10 @@
    "tipo": "agenda",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Agenda Salvador — Teatro",
@@ -170,7 +224,10 @@
    "tipo": "agenda",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Agenda Salvador — Rio Vermelho",
@@ -179,7 +236,10 @@
    "tipo": "agenda",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Agenda Salvador — Centro",
@@ -188,7 +248,10 @@
    "tipo": "agenda",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Rapana — Salvador",
@@ -197,7 +260,10 @@
    "tipo": "agenda",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Agenda Arte e Cultura",
@@ -206,7 +272,10 @@
    "tipo": "agenda",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Agenda Cultural Salvador — Teatro",
@@ -215,7 +284,10 @@
    "tipo": "agenda",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "El Cabong",
@@ -224,7 +296,10 @@
    "tipo": "agenda",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "SoteroTeatro",
@@ -233,7 +308,10 @@
    "tipo": "agenda",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Simbora",
@@ -242,7 +320,10 @@
    "tipo": "agenda",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Guia Gay Salvador",
@@ -251,7 +332,10 @@
    "tipo": "agenda",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "BATEKOO — eventos",
@@ -260,7 +344,10 @@
    "tipo": "produtor",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Movimento Boca de Brasa",
@@ -269,7 +356,10 @@
    "tipo": "produtor",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "SecultBA — eventos",
@@ -278,7 +368,10 @@
    "tipo": "agenda",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "FUNCEB — Agenda Cultural Bahia",
@@ -287,7 +380,10 @@
    "tipo": "agenda",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Teatro Castro Alves",
@@ -296,7 +392,10 @@
    "tipo": "espaço",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "MUNCAB",
@@ -305,7 +404,10 @@
    "tipo": "espaço",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "bloqueou acesso automático (HTTP 403)"
+   }
   },
   {
    "source_name": "CAIXA Cultural Salvador",
@@ -314,7 +416,10 @@
    "tipo": "espaço",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "CCBB Salvador",
@@ -323,7 +428,10 @@
    "tipo": "espaço",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Teatro Vila Velha",
@@ -332,7 +440,10 @@
    "tipo": "espaço",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Teatro Gamboa",
@@ -341,7 +452,10 @@
    "tipo": "espaço",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Teatro Módulo",
@@ -350,7 +464,10 @@
    "tipo": "espaço",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Sesc Bahia",
@@ -359,7 +476,10 @@
    "tipo": "espaço",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Teatro Martim Gonçalves — UFBA",
@@ -368,7 +488,10 @@
    "tipo": "espaço",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Goethe-Institut Salvador",
@@ -377,7 +500,10 @@
    "tipo": "espaço",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "bloqueou acesso automático (HTTP 403)"
+   }
   },
   {
    "source_name": "Casa Rosa — programação",
@@ -386,7 +512,10 @@
    "tipo": "espaço",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Fundação Casa de Jorge Amado",
@@ -395,7 +524,10 @@
    "tipo": "espaço",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Museu Náutico da Bahia",
@@ -404,7 +536,10 @@
    "tipo": "espaço",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Câmara Municipal — Centro de Cultura",
@@ -413,7 +548,10 @@
    "tipo": "espaço",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "respondeu"
+   }
   },
   {
    "source_name": "Âncora do Marujo — Instagram",
@@ -422,7 +560,10 @@
    "tipo": "rede social",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "não verificada automaticamente (exige login)"
+   }
   },
   {
    "source_name": "SAN Boate — Linktree",
@@ -431,7 +572,10 @@
    "tipo": "rede social",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "não verificada automaticamente (exige login)"
+   }
   },
   {
    "source_name": "Amsterdam Pop Club — Instagram",
@@ -440,7 +584,10 @@
    "tipo": "rede social",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "não verificada automaticamente (exige login)"
+   }
   },
   {
    "source_name": "Bar da Pri — Instagram",
@@ -449,7 +596,10 @@
    "tipo": "rede social",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "não verificada automaticamente (exige login)"
+   }
   },
   {
    "source_name": "Show Bar — Instagram",
@@ -458,7 +608,10 @@
    "tipo": "rede social",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "não verificada automaticamente (exige login)"
+   }
   },
   {
    "source_name": "Manifesto — Instagram",
@@ -467,7 +620,10 @@
    "tipo": "rede social",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "não verificada automaticamente (exige login)"
+   }
   },
   {
    "source_name": "Sapaokê — Instagram",
@@ -476,7 +632,10 @@
    "tipo": "rede social",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "não verificada automaticamente (exige login)"
+   }
   },
   {
    "source_name": "Comunidade Cutelo — Instagram",
@@ -485,7 +644,10 @@
    "tipo": "rede social",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "não verificada automaticamente (exige login)"
+   }
   },
   {
    "source_name": "Shantay — Instagram",
@@ -494,7 +656,11 @@
    "tipo": "rede social",
    "status_acesso": "ainda não consultada",
    "ultima_consulta": null,
-   "consulta_automatica": null
+   "consulta_automatica": {
+    "em": "2026-11-25T10:19:28.136Z",
+    "resultado": "não verificada automaticamente (exige login)"
+   }
   }
- ]
+ ],
+ "ultima_checagem_automatica": "2026-11-25T10:19:28.136Z"
 }
