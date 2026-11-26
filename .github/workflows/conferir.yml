@@ -1,0 +1,57 @@
+name: Conferir datas dos eventos
+
+# Todo dia abre a página oficial de cada evento em cartaz e compara data, período e cancelamento
+# com data/eventos.json. Não muda o site: mantém uma issue "Conferência de datas" com as divergências.
+on:
+  schedule:
+    - cron: "0 9 * * *"   # todo dia, 6h em Salvador
+  push:
+    branches: [main]
+    paths: ["data/eventos.json", "scripts/conferir.mjs"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: conferir
+  cancel-in-progress: true
+
+jobs:
+  conferir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Conferir
+        run: node scripts/conferir.mjs
+      - name: Atualizar a issue de conferência
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create conferencia --color 2f6f4f --description "Divergências de data encontradas na conferência automática" 2>/dev/null || true
+          n=$(gh issue list --label conferencia --state open --json number -q '.[0].number')
+          total=$(cat conferencia/contagem.txt)
+          titulo="Conferência de datas — $(TZ=America/Bahia date +%d/%m/%Y): $total divergência(s)"
+          if [ -n "$n" ]; then
+            gh issue edit "$n" --title "$titulo" --body-file conferencia/relatorio.md
+            [ "$total" = "0" ] && gh issue close "$n" --comment "Conferência de $(TZ=America/Bahia date +%d/%m/%Y): nenhuma divergência." || true
+          elif [ "$total" != "0" ]; then
+            gh issue create --title "$titulo" --label conferencia --body-file conferencia/relatorio.md
+          fi
+      - name: Guardar o resultado na branch conferencia
+        if: always()
+        run: |
+          mkdir -p /tmp/saida && cp -r conferencia /tmp/saida/
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan conferencia-tmp
+          git rm -rq --cached . && rm -rf ./*
+          cp -r /tmp/saida/conferencia .
+          git add conferencia
+          git commit -qm "Conferência $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -f origin conferencia-tmp:conferencia
