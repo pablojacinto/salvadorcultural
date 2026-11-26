@@ -36,6 +36,8 @@ Regras de cada registro:
 - Pode ser rodada à mão na aba **Actions → Checar fontes da agenda → Run workflow**.
 - **Coleta de candidatos** (`.github/workflows/coletar.yml`): segundas e quintas às 7h de Salvador, o GitHub lê as bilheterias, agendas e espaços do catálogo e abre uma issue "Candidatos a evento" na aba **Issues** com o que ainda não está na agenda. Nada entra no site sem conferência: abra a página oficial de cada candidato e, se estiver tudo certo, acrescente o evento em `data/eventos.json`.
 - **Banners dos eventos** (`.github/workflows/imagens.yml`): sempre que `data/eventos.json` muda (e toda segunda), busca a imagem de divulgação na página oficial de cada evento novo e grava o campo `imagem`. Sem imagem, o card usa a arte padrão.
+- **Conferência de datas** (`.github/workflows/conferir.yml`): todo dia às 6h de Salvador (e sempre que `data/eventos.json` muda), o GitHub abre a página oficial de cada evento em cartaz e compara data, período e cancelamento. As divergências ficam numa única issue "Conferência de datas" (etiqueta `conferencia`), que se fecha sozinha quando tudo confere. O robô não altera o site. Bileto, Balcão de Ingressos e Ingresse só mostram a data no navegador: aparecem na seção "Conferir no navegador".
+- **Evento em dias separados** (ex.: sábados de uma temporada): use `"datas": ["2026-11-28", "2026-12-05"]` em vez de `data_fim`. O card mostra o próximo dia e cita os seguintes. `data_fim` é só para período contínuo (exposição, festival em dias seguidos).
 - A data de "Agenda atualizada em" no topo do site vem do campo `atualizado_em` de `data/eventos.json`: atualize-o a cada revisão.
 
 ## Correções do público

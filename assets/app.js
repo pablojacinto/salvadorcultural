@@ -14,7 +14,11 @@
   const curta = (iso) => { const d = paraData(iso); return `${d.getUTCDate()} ${MESES[d.getUTCMonth()]}`; };
   const fimDe = (e) => e.data_fim || e.data;
   const quandoTexto = (e) => {
-    if (!e.data_fim) { const d = paraData(e.data); return `${DIAS[d.getUTCDay()]}, ${curta(e.data)}`; }
+    if (!e.data_fim) {
+      const d = paraData(e.data);
+      const mais = (e._datas || []).slice(1, 4).map(curta);
+      return `${DIAS[d.getUTCDay()]}, ${curta(e.data)}${mais.length ? " (também " + mais.join(", ") + ((e._datas.length > 4) ? "…" : "") + ")" : ""}`;
+    }
     return `${curta(e.data)} — ${curta(e.data_fim)}`;
   };
 
@@ -108,7 +112,8 @@
     const q = semAcento(st.busca).trim();
     return EVENTOS.filter((e) => {
       if (fimDe(e) < hoje) return false;
-      if (j && (e.data > j[1] || fimDe(e) < j[0])) return false;
+      if (j && e._datas) { if (!e._datas.some((d) => d >= j[0] && d <= j[1])) return false; }
+      else if (j && (e.data > j[1] || fimDe(e) < j[0])) return false;
       if (st.gratis && !e.gratuito) return false;
       if (st.noite && !e.noite) return false;
       if (st.cat && e.categoria !== st.cat) return false;
@@ -231,6 +236,14 @@
     try {
       const [ev, es, fo] = await Promise.all(["data/eventos.json", "data/espacos.json", "data/fontes.json"].map((u) => fetch(u, { cache: "no-cache" }).then((r) => { if (!r.ok) throw new Error(u); return r.json(); })));
       const hoje = hojeISO();
+      // eventos em dias separados (campo "datas"): o card mostra o próximo dia e cita os seguintes
+      for (const e of ev.eventos) {
+        if (!Array.isArray(e.datas) || !e.datas.length) continue;
+        const prox = e.datas.slice().sort().filter((d) => d >= hoje);
+        delete e.data_fim;
+        e.data = prox[0] || e.datas[e.datas.length - 1];
+        e._datas = prox.length ? prox : null;
+      }
       EVENTOS = ev.eventos.slice().sort((a, b) => {
         const ka = a.data < hoje ? hoje : a.data, kb = b.data < hoje ? hoje : b.data;
         return ka.localeCompare(kb) || (a.data_fim ? 1 : 0) - (b.data_fim ? 1 : 0) || a.titulo.localeCompare(b.titulo, "pt");
