@@ -1,0 +1,3897 @@
+{
+ "em": "2026-11-26T19:39:18.916Z",
+ "resumo": [
+  {
+   "id": "pms-agenda",
+   "url": "https://www.salvadordabahia.com/agenda/",
+   "ok": true,
+   "filhos": 19
+  },
+  {
+   "id": "pms-shows",
+   "url": "https://www.salvadordabahia.com/categoria-agenda/shows-e-festas/",
+   "ok": true,
+   "filhos": 12
+  },
+  {
+   "id": "pms-exposicoes",
+   "url": "https://www.salvadordabahia.com/categoria-agenda/exposicoes/",
+   "ok": true,
+   "filhos": 9
+  },
+  {
+   "id": "pms-teatro",
+   "url": "https://www.salvadordabahia.com/categoria-agenda/teatro/",
+   "ok": true,
+   "filhos": 3
+  },
+  {
+   "id": "pms-gratuitos",
+   "url": "https://www.salvadordabahia.com/categoria-agenda/gratuitos/",
+   "ok": true,
+   "filhos": 12
+  },
+  {
+   "id": "pms-danca",
+   "url": "https://www.salvadordabahia.com/categoria-agenda/danca/",
+   "ok": true,
+   "filhos": 1
+  },
+  {
+   "id": "bilheteriadigital",
+   "url": "https://www.bilheteriadigital.com/busca/salvador",
+   "ok": true,
+   "filhos": 24
+  },
+  {
+   "id": "ticketmaker",
+   "url": "https://vendas.ticketmaker.com.br/Eventos",
+   "ok": true,
+   "filhos": 30
+  },
+  {
+   "id": "boratickets",
+   "url": "https://vendas.boratickets.com.br/",
+   "ok": true,
+   "filhos": 7
+  },
+  {
+   "id": "pida",
+   "url": "https://www.pida.com.br/eventos",
+   "ok": true,
+   "filhos": 30
+  },
+  {
+   "id": "nokta",
+   "url": "https://www.noktatickets.com.br/eventos/em/salvador",
+   "ok": true,
+   "filhos": 13
+  },
+  {
+   "id": "eventim",
+   "url": "https://www.eventim.com.br/city/salvador-1143/",
+   "ok": false
+  },
+  {
+   "id": "ingresse",
+   "url": "https://www.ingresse.com/",
+   "ok": false
+  },
+  {
+   "id": "casarosa-bileto",
+   "url": "https://site.bileto.sympla.com.br/casarosa/",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "balcao",
+   "url": "https://www.balcaodeingressos.com/",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "ingra",
+   "url": "https://ingratickets.com.br/",
+   "ok": true,
+   "filhos": 28
+  },
+  {
+   "id": "uhuu",
+   "url": "https://uhuu.com/",
+   "ok": true,
+   "filhos": 1
+  },
+  {
+   "id": "guicheweb",
+   "url": "https://www.guicheweb.com.br/",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "zig",
+   "url": "https://zig.tickets/",
+   "ok": true,
+   "filhos": 30
+  },
+  {
+   "id": "appticket",
+   "url": "https://appticket.com.br/estado/bahia",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "agendasalvador-musica",
+   "url": "https://agendasalvador.com.br/salvador/musica",
+   "ok": true,
+   "filhos": 30
+  },
+  {
+   "id": "agendasalvador-teatro",
+   "url": "https://agendasalvador.com.br/salvador/teatro",
+   "ok": true,
+   "filhos": 26
+  },
+  {
+   "id": "agendasalvador-exposicoes",
+   "url": "https://agendasalvador.com.br/salvador/exposicoes",
+   "ok": false
+  },
+  {
+   "id": "agendasalvador-centro",
+   "url": "https://agendasalvador.com.br/salvador/centro",
+   "ok": true,
+   "filhos": 30
+  },
+  {
+   "id": "agendasalvador-rv",
+   "url": "https://agendasalvador.com.br/salvador/rio-vermelho",
+   "ok": true,
+   "filhos": 30
+  },
+  {
+   "id": "rapana",
+   "url": "https://rapana.com.br/salvador/eventos",
+   "ok": true,
+   "filhos": 29
+  },
+  {
+   "id": "agendartecultura",
+   "url": "https://www.agendartecultura.com.br/",
+   "ok": true,
+   "filhos": 29
+  },
+  {
+   "id": "agendaculturalsalvador",
+   "url": "https://www.agendaculturalsalvador.com.br/categoria/teatro-salvador",
+   "ok": true,
+   "filhos": 11
+  },
+  {
+   "id": "elcabong",
+   "url": "https://elcabong.com.br/",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "soteroteatro",
+   "url": "https://soteroteatro.com.br/",
+   "ok": true,
+   "filhos": 1
+  },
+  {
+   "id": "simbora",
+   "url": "https://simbora.net/",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "batekoo",
+   "url": "https://batekoo.com/eventos/",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "guiagay",
+   "url": "https://www.guiagaysalvador.com.br/roteiro/",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "bocadebrasa",
+   "url": "https://www.movimentobocadebrasa.com.br/",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "secult-eventos",
+   "url": "https://www.ba.gov.br/cultura/eventos",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "funceb-agenda",
+   "url": "https://www.ba.gov.br/fundacaocultural/5524/agenda-cultural-bahia",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "ipac-noticias",
+   "url": "https://www.ba.gov.br/ipac/noticias",
+   "ok": true,
+   "filhos": 18
+  },
+  {
+   "id": "ipac-museus",
+   "url": "https://www.ba.gov.br/ipac/museus-0",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "tca",
+   "url": "https://www.ba.gov.br/tca/eventos",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "cms-agenda",
+   "url": "https://www.cms.ba.gov.br/CMS/public/agenda",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "caixa",
+   "url": "https://www.caixacultural.gov.br/Paginas/Salvador.aspx",
+   "ok": false
+  },
+  {
+   "id": "ccbb",
+   "url": "https://ccbb.com.br/salvador/programacao/",
+   "ok": false
+  },
+  {
+   "id": "vilavelha",
+   "url": "https://teatrovilavelha.com.br/tempo/",
+   "ok": true,
+   "filhos": 17
+  },
+  {
+   "id": "gamboa",
+   "url": "https://teatrogamboa.com.br/agenda/",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "modulo",
+   "url": "https://teatromodulo.com.br/programacao",
+   "ok": true,
+   "filhos": 10
+  },
+  {
+   "id": "sesc",
+   "url": "https://www.sescbahia.com.br/programacao",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "martim",
+   "url": "https://teatro.ufba.br/agenda/",
+   "ok": true,
+   "filhos": 29
+  },
+  {
+   "id": "casarosa",
+   "url": "https://casarosasalvador.com.br/programacao/mes/",
+   "ok": true,
+   "filhos": 30
+  },
+  {
+   "id": "jorgeamado-fund",
+   "url": "https://jorgeamado.org.br/",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "nautico",
+   "url": "https://www.museunauticodabahia.org.br/eventos/",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "muncab",
+   "url": "https://muncab.com.br/",
+   "ok": false
+  },
+  {
+   "id": "goethe",
+   "url": "https://www.goethe.de/ins/br/pt/sta/sal/ver.cfm",
+   "ok": false
+  },
+  {
+   "id": "saladearte",
+   "url": "https://www.saladearte.art.br/",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "teatrojorgeamado",
+   "url": "https://www.teatrojorgeamado.com.br/",
+   "ok": false
+  },
+  {
+   "id": "pierreverger",
+   "url": "https://www.pierreverger.org/",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "mafro",
+   "url": "https://mafro.ceao.ufba.br/",
+   "ok": false
+  },
+  {
+   "id": "galatea",
+   "url": "https://galatea.art/",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "alianca",
+   "url": "https://www.afsalvador.org.br/",
+   "ok": false
+  },
+  {
+   "id": "icba",
+   "url": "https://www.icba.com.br/",
+   "ok": true,
+   "filhos": 0
+  },
+  {
+   "id": "museucostapinto",
+   "url": "https://www.museucostapinto.com.br/",
+   "ok": true,
+   "filhos": 0
+  }
+ ],
+ "requisicoes": [
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=1",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=2",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=3",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=4",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=5",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=6",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=7",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=8",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=9",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=10",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=11",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=12",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=13",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=14",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=15",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=16",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=17",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=18",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=19",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=20",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=21",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=22",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/eventos/salvador-ba?page=23",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/11-26-galeria-mercado-de-24-11-a-29-11/3662466",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/11-26-casa-das-historias-de-salvador-de-24-11-a-29-11/3662459",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/bahia-tech-experience-btx26/3579757",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/11-26-gm-visita-de-grupos-01-11-a-30-11-novembro/3609080",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/11-26-chs-visita-de-grupos-01-11-a-30-11-novembro/3609087",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/festival-sesi-de-ciencia-tecnologia-e-inovacao-2026/3654698",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/angela-velloso-em-que-insights-de-verao/3666341",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/furduncinho-salvador-3a-edicao/3658138",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/giuliano-eriston-show-politonia/3661770",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/roberto-mendes-paulo-mutti/3666235",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/patricia-gomes-em-som-dos-tribais/3649524",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/brina-costa-no-show-chico-eu/3666296",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/baterista-da-los-hermanos-em-salvador-ba-rodrigo-barba-apresenta-25-anos-do-bloco-do-eu-sozinho/3663429",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/expo-isp-salvador/3438628",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/atualiza-telecom-6deg-edicao-2027-o-futuro-da-telecom/2541830",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/universidade-da-vida-junior-2026/3587047",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/tom-ribeira-na-casa-da-mae/3609930",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/bahia-vinho-show-2026-2/3589332",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/dois-sois-em-salvador-ba/3624513",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/skincare-de-produtos-coreanos-salvador-ba-12-12-2026/3607057",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/ceo-talks-grandes-negocios-grandes-decisoes/3630178",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/gamelab-atendimento-inteligente-ia/3621659",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/cieb-comemora-60-anos/3638501",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/gamelab-agentes-de-ia-e-produtividade/3621668",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/potencia-pcd-salvador-empreendedorismo-e-geracao-de-renda/3621139",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/seminario-se-essa-casa-fosse-minha-abrigo-pertencimento-e-memoria/3660207",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/curso-cps-casados-para-sempre-min-casais-pib-do-brasil-2026-2/3480237",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/djamila-ribeiro-em-salvador-palestra-lugar-de-fala/3615946",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/projeto-empreendedorismo-2026/3606195",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/ana-claudia-quintana-arantes-em-salvador-palestra-faca-a-sua-vida-valer-a-pena/3623539",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/lucia-helena-galvao-em-salvador-palestra-ansiedade-um-olhar-a-partir-da-filosofia/3623497",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/cafe-com-turismo-turismo-em-transformacao-tres-mudancas-que-podem-redefinir-seus-resultados/3663311",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/clovis-de-barros-filho-em-salvador-palestra-etica-e-vergonha-na-cara/3631906",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/axe-conexoes-alegria/3667026",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/confraternizacao-assoveba-2026/3653928",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/treinamento-redes-de-fibra-optica-na-pratica-projete-calcule-e-instale/3666615",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/treinamento-tecnico-sistemas-de-deteccao-e-alarmes-de-incendio/3666695",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/treinamento-tecnico-casa-inteligente/3666683",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/jornada-pedagogica-bernoulli-2027/3663500",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/cuuc-gira-04-12/3666953",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/pre-inscricao-para-o-campus-iii-3-2027-1-i-e-ii-bimestre/3620611",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/pre-inscricao-para-o-campus-ii-2-2027-1-para-o-i-e-ii-bimestres/3620636",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/projeto-estudar-comunidades-com-tenis-de-mesa-thales-2026-quinta-sexta-sabado/3343972",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/pre-inscricao-para-a-arte-a-servico-do-espirito-2027-1/3601577",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/ctb-associados/3334623",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/a-livraria-cpad-salvador-convida-voce/3660752",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/pre-inscricao-para-o-campus-iv-4-2027-1-i-bimestre/3620596",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/dani-cup-brasil-salvador-2026/3603568",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/circuito-sesc-de-corridas-2026-etapa-salvador/3411648",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/pre-inscricao-para-o-grupo-de-estudos-em-desdobramento-2027-1/3601664",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/7-o-worskshop-isa-bahia-de-valvulas-de-controle/3647124",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/grupo-de-estudos-junguianos-2027-1/3657516",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/pre-inscricao-para-o-grupo-autoiluminacao-2027-1/3601638",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/cuuc-gira-27-11/3658634",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/cuuc-gira-04-12-suplentes/3666959",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/3a-caminhada-do-programa-mulher-crea-ba/3604448",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/pre-inscricao-para-o-campus-v-5-2027-1-1a-turma/3620569",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/engenharia-em-foco-edicao-salvador/3664730",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/teste-piloto-inspiramente-participacao-voluntaria/3657409",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/fundacao-aleixo-belov-na-semana-de-oceanografia-da-ufba-soufba-2026/3635385",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/v-seminario-anual-da-associacao-dos-advogados-criminalistas-da-bahia-aacb/3643532",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/cuuc-gira-27-11-suplentes/3658639",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/pre-inscricao-para-o-grupo-sentindo-o-divino-2027-1/3603312",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/pre-inscricao-para-o-ciclo-a-da-ule-2027-1/3624605",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/inscricao-para-o-ciclo-i-curso-basico-de-espiritismo-2027-1/3618689",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/cidem-2027-congresso-internacional-de-desastres-em-massa/3527743",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/jantar-ifr/3645260",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/pre-inscricao-para-o-grupo-despertar-do-espirito-2027-1/3601251",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/harry-s-club-2a-ed-forever-young-party/3569998",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/9o-ato-pelo-fim-da-violencia-contra-mulheres-e-meninas-grupo-mulheres-do-brasil-salvador/3658880",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/sustentacao-oral-simulada/3656000",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/abpbe-bahia-convida-presencial-breves-contribuicoes-da-visao-medica-sobre-o-suicidio/3667688",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/abpbe-bahia-convida-presencial-breves-contribuicoes-da-visao-medica-sobre-o-suicidio-copia/3667770",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/abpbe-bahia-convida-presencial-breves-contribuicoes-da-visao-medica-sobre-o-suicidio/3667823",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/boas-praticas-de-instalacao-de-carregadores-veiculares/3628591",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/mentoring-connection-edicao-dezembro-de-2026/3665885",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/bahia-comex-por-elas/3667267",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/brega-a-dois-28-11/3656564",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/matricula-tec-enfermagem/3087163",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/breaklog-happy-hour-do-pmi-ba-edicao-dezembro-de-2026/3666306",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/aula-aberta-gestao-da-cultura-negra-e-as-tecnologias-ancestrais-com-onisaje-e-ste-souto/3659550",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/aula-viva-gamboa-saberes-ancestrais-a-beira-da-baia-edicao-especial-salvador-capital-afro/3659542",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/teams-bahia-one-mensal/3663985",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/encontros-e-conexoes-que-transformam-salvador/3623841",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/uma-turma-muito-maluquinha/3667615",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/roda-de-samba-do-grupo-botequim-ultima-do-ano/3664291",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/morango-canta-ludmila-e-alcione-baia-sunset/3650935",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/gabor-pelo-brasil-1a-edicao-salvador-ba/3656586",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/12o-treinao-solidario-supere-doando/3666347",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/revisao-de-vespera-pc-ba-delegado-de-policia-presencial-em-salvador/3630009",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/samba-de-terreiro-19-11-e-26-11/3656498",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/ai-de-mim-que-sou-romantica-mary-jane-beck-ober-e-convidados/3648299",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/aulao-de-revisao-para-o-concurso-da-pcba/3621222",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/banda-br-44-tributo-a-simone-o-voo-da-cigarra/3652627",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/ensaios-de-tatau/3662122",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/associados-day/3635041",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/subh-com-mano-parras-e-convidados/3652582",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/novawork-day-1a-edicao/3606102",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/kms-pela-vida-salvador-ba-atleta-por-proposito/3651487",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/salceruh/3659735",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/celebrando-a-recuperacao-ciclo-26-27/3542740",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/ssa-treinamento-rossi-day-mao-na-massa/3661311",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/36deg-lavagem-da-adelba-2027/3662354",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/blitz-nice/3654545",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/ssa-venda-solucoes-intelbras-para-condominios-e-solucoes-360o/3659881",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/5deg-culto-presencial-unidas-com-proposito-26-12/3643245",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/13o-congresso-vitafor-science-salvador-2027/3650906",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/geocaruru-2026-obras-geotecnicas-sucessos-insucessos-e-licoes-aprendidas/3644520",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/reveillon-beach-farol-2027/3627227",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/jam-no-mam-28-de-novembro-de-2026/3655251",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/festival-pagode-por-elas-ano-3/3591860",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/imersao-artistica-com-flaira-ferro-salvador/3627363",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/festa-preciosa/3649768",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/patroas-em-celebracao-aniversario-das-patroas/3492175",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/encontro-para-mulheres-fiat-faca-se-de-deus/3647584",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/reveillon-da-baia-2027/3521775",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/reveillon-alerta-praia-2027/3599370",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/reveillon-villa-bahiana-2027/3595207",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/blackout-reveillon/3661520",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/22o-bahiarh/3657235",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/noite-freak-verao-eletronico-aniversario-4-anos-freak/3640244",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/daniel-ferreira-em-vai-viver-comigo-ou-vai-me-ver-vivendo/3643664",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/daniel-ferreira-em-vai-viver-comigo-ou-vai-me-ver-vivendo-21h/3659498",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/caminhada-salvador-negra-28-11/3502849",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/plantao-sus-ba-profecia-final-ba/3601160",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/insistentes-10-12/3663672",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/1798-lucas-dantas-um-heroi-de-buzios-05-12/3663589",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/renato-piaba-especial-resenha-na-boca-do-rio-humor-e-stand-up-comedy/3641114",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/armengue-stand-up-comedy-especial-comedia-na-boca-do-rio-casa-29-de-marco-retrospectiva/3646541",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/arquitetonicamente-stand-up-comedy-com-lucas-dumas/3625674",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/fuego-comedy-night-stand-up-comedy-show-de-humor-ultima-do-ano/3661760",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/pincele-arte-spritz-pintura-de-tacas-no-tere/3654925",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/cia-geringonca-os-miseraveis-mudanca-de-habito/3637186",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/ploc/3664724",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/lancamento-8o-congresso-harmoniza-brasil/3589134",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/caminhada-salvador-negra-05-12/3580046",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/ii-forum-de-especialistas-em-radiologia-salvador-ba/3434943",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/caminhada-salvador-negra-12-12/3580157",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/caminhada-salvador-negra-19-12/3580162",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/exu-do-amor-11-12/3663652",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/espetaculo-teatral-alem-dos-olhos/3639964",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/arte-pizza-i-pintura-de-pratos-com-rodizio-no-patroni/3662030",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/minicurso-introducao-a-analise-de-materiais-arqueologicos/3661946",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/elis-a-voz-do-brasil-catharina-gonzaga-canta-elis-regina/3618644",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/um-conto-de-natal/3664659",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/oficina-de-calistenia/3665355",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/oxum-hacker-conference-2027/3585321",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/nullbyte-security-conference-2027/3648357",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/astoria-pink-floyd-cover-a-essencia-do-pink-floyd-ao-vivo/3644665",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/rainha-vashti-a-roda-teatro-de-bonecos/3636735",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/jornada-na-casa/3656291",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/sunset-circuito-estacoes-dos-vinhos/3654154",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/falcons-geek-fest-2027/3663031",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/guga-canta-gil-vila-da-praia-hotel/3654583",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/iberfriday/3664125",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/caminhada-salvador-negra-30-01/3611955",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/caminhada-salvador-negra-23-01/3611961",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/caminhada-salvador-negra-09-01/3611933",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/turne-cortes-do-nosso-brasil-salvador-bahia/3592271",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/caminhada-salvador-negra-02-01/3611922",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/caminhada-salvador-negra-16-01/3611948",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/formacao-analista-comportamental-profiler-presencial-salvador/3646230",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/percussao-afro-brasileira-com-bira-monteiro/3657063",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/oficinas-vila-verao-receita-teatral-pizza-palco-e-historias-oficina-de-teatro-para-criancas/3658428",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/entre-estruturas-oficina-de-instalacao-performatica-com-erick-saboya/3657091",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/jogos-teatrais-para-criancas-com-laili-flores/3659872",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/praticas-de-atuacao-do-gesto-ao-verbo-com-lucio-tranchesi/3657006",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/comer-beber-e-pintar/3643193",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/foi-por-esse-amor/3665010",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/improvisacao-teatral-teatro-esporte-com-celso-junior/3656487",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/teatro-para-iniciantes-com-chica-carelli/3656412",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/simbologia-de-orixa-com-rosangela-silvestre/3657053",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/zootomia-com-ariel-ribeiro/3657023",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/processos-criativos-do-jogo-fisico-a-corporeidade-na-cena/3656987",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/4o-cafe-sistemico-por-que-voce-continua-repetindo-os-mesmos-padroes-sabado-das-8-30-as-12-30h/3650732",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/21o-edicao-do-cafe-com-rh-salvador/3636645",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/doroteia-vai-a-guerra/3655795",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/deixa-eu-dancar-6a-edicao-especial-de-verao/3655081",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/workshops-do-pmi-ba-da-competencia-tecnica-a-atuacao-como-lider/3635598",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/cis-cor-de-rosa-experience-edicao-beneficente/3636914",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/doroteia-vai-a-guerra/3655793",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/doroteia-vai-a-guerra/3655811",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/doroteia-vai-a-guerra/3655798",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/doroteia-vai-a-guerra/3655802",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/jornada-de-experiencia-do-paciente/3644817",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/jantar-de-natal-hotel-deville-prime-salvador-2026/3635031",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/encruzilhadas-uma-comedia-para-macumbeiros/3572749",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/1-aniversario-samba-mussurunga/3614299",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/show-cara-pulsa-coragem-com-a-cantora-dora-goritzki/3665658",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/guri-baby-desenvolvimento-integral-na-primeira-infancia-guri-pituba/3650326",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/imersao-lideranca-360o-conectando-relacoes-humanas-digitais-e-negocios/3585168",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/doroteia-vai-a-guerra/3655789",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/humor-goela-abaixo/3627670",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/guri-baby-desenvolvimento-integral-na-primeira-infancia/3565631",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/congresso-autismo-em-evidencias/3620827",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/mulheres-que-movimentam/3662261",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/curso-de-extensao-em-teologia-matricula/3547557",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/escuna-green-2026-o-verao-comeca-antes/3629943",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/sambaile-do-raffa-edicao-aniversario/3609693",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/samba-do-carongonde/3654247",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/imersao-rh-estrategico-na-pratica-2027/3650102",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/seminario-ramatis-mudanca-de-era-ancestralidade-e-espiritualidade/3654950",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/atendimento-gratuito-caboclo-girassol-toda-quarta-feira-as-19-horas/3270068",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/reuniao-de-cura-online-passes-a-distancia/3162984",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/porque-e-tao-dificil-guardar-dinheiro/3641795",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/curso-presencial-lideranca-e-gestao-de-equipes-salvador/3625396",
+   "status": 404
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/cafe-da-manha-dia-do-sindico/3646158",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/confraternizacao-de-final-de-ano-das-comissoes-extrajudicial-e-imobiliario-da-oab-ba/3646555",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/saudi-film-nights-salvador/3617310",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/cimatec-business-arena-edicao-especial/3656005",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/cimatec-business-arena/3648406",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/codigo-ancestral-planejar-proteger-e-prosperar/3657282",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/2o-seminario-cultura-industria-investimento-que-gera-valor/3656369",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/bahiacal-40a-edicao/3655073",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/nova-turma-curso-de-cuidador-da-pessoa-idosa/3611904",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/100o-encontro-de-multicolecionismo-da-bahia/3475042",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/imersao-contabil-hologram/3654180",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/espetaculo-memorias-do-pequeno-chef-salvador/3647053",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/sempat-ba-2026-obras-de-arte-especiais-da-inspecao-a-reabilitacao/3646945",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/memorias-do-pequeno-chef-oficina-de-culinaria-salvador/3647013",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/16a-mostra-de-cinema-e-direitos-humanos/3658872",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/das-lutas-de-libertacao-as-telas-o-cinema-e-a-construcao-das-memorias-nacionais-em-angola-e-guine-b/3662046",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/prevencao-e-promocao-a-saude-do-homem/3661044",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/trend-solidario/3648646",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/desfile-orimi-colecao-orimi/3629841",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/cafe-do-futuro-salvador-4a-edicao/3654562",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/forum-da-circularidade-e-inovacao-na-industria-plastica-da-bahia/3619044",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/planet-room-festival-sesi/3666355",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/reveillon-casa-castro-alves-2a-edicao/3667365",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/aloha-verao-2026/3455228",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/curso-de-massagem-tantrica-em-salvador-na-bahia-ba/3662408",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/comunica-ia/3609814",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/nos-trilhos-da-memoria-resultados-da-pesquisa-arqueologica-no-largo-da-vitoria/3664338",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/festa-de-final-de-ano-2026-netra-tecnologia/3644928",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/lancamento-sonhos-em-marcha-juventudes-negras-da-bahia-por-reparacao-e-bem-viver/3659876",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/encontro-de-corais-a-igeja-de-jesus-cristo-dos-santos-dos-ultimos-dias/3536975",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/lifecirco-show-aladdin/3648257",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/iv-forum-baiano-de-energia-solar-2026/3641084",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/mostra-travessias-1a-jau-jornada-de-audiovisual-da-ufba/3667701",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/evento-bolsa-atleta-na-pratica/3649972",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/mostra-territorios-1a-jau-jornada-de-audiovisual-da-ufba/3667716",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/alem-das-urnas-o-que-esperar-da-economia-e-dos-investimentos-no-brasil-pos-eleicoes/3629744",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/40-anos-da-abenc-lancamento-do-livro-elas-no-poder-elas-na-engenharia/3655661",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/2o-createch-2026/3651040",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/sala-secreta-tribunal-do-juri/3642193",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/o-sarau-musical-do-ceep-musica/3623061",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/mostra-corpos-e-afetos-1a-jau-jornada-de-audiovisual-da-ufba/3666952",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/run-t-festival-de-wellness/3570428",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/seguranca-das-criancas-no-meio-digital-oficina-de-ferramentas-de-combate-aos-riscos-de-aliciamento/3636711",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/frauday-28-a-bahia-ferve/3630289",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/da-missa-ao-corpo/3646339",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/se-for-pra-ser-vote-em-mim/3635940",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/um-fio-para-liberdade-mab/3665918",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/um-fio-para-liberdade/3626616",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/um-fio-para-liberdade-galpao-wilson/3665863",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/curso-de-primeiros-socorros-em-criancas-pra-pais-e-cuidadores/3651348",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/cafe-com-direcao/3639789",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/workshop-global-2a-edicao/3634465",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/oficina-de-velas-aromaticas-natalinas-em-salvador-201-estudio-criativo/3633944",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/ravi-lobo-convida-edi-rock-racionais-mcs-em-salvador/3605228",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/colado-terceira-edicao/3642584",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/antifa-zone-invade-upico-bem-vindo-natal-trap-hit/3667078",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/sofia-pitta-pureza-selvagem/3662026",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/visgueira-do-tonhao/3651641",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/treinamento-de-refrigeracao-e-climatizacao-profissao-sem-crise-copia/3618642",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/reveillon-mercure-salvador-rio-vermelho/3618795",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/festa-de-encerramento-cemj-2026/3660617",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/workshop-meu-codigo-visual-com-vanessa-nichetti/3598707",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/oficina-de-colagem-archetorio/3647382",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/oficina-de-iluminacao-wooow-creative-studios/3666191",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/atelie-livre/3655500",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/ciranda-da-vida/3666139",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/reveillon-alambic-praia-2027/3594895",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/camarote-cabana-da-barra-carnaval-2027/3621562",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/safras-leitura-dramatica-de-nodoas/3667827",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/oficina-de-croche-enfeites-natalinos-201-estudio-criativo/3656036",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/oficina-casinha-de-biscoito-natalina/3652576",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/oficina-de-bordado-em-papel-cartao-de-natal-artesanal-201-estudio-criativo/3656030",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/q-mov-o-que-te-movimenta/3606008",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/pilates-brunch-mavie-club/3663103",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/2a-corrida-conexao/3662307",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/imersao-p2-prsperando-a-dois/3639872",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/oficina-vision-board-2027-um-ano-para-criar/3648064",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/oficina-guirlanda-natalina/3629354",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/reveillon-baluarte/3527985",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/marcha-para-jesus/3652729",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/ii-conexoes-de-negocios-networking-business-bahia/3640633",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/reveillon-2027-luau-da-virada-a-bordo-de-uma-escuna-de-luxo/3392324",
+   "status": 200
+  },
+  {
+   "url": "https://www.sympla.com.br/evento/mestres-da-fala/3614053",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/agenda/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/o-que-ta-rolando-em-salvador-de-26-a-29-de-novembro-de-2026/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/calendario-do-verao-de-salvador-2026-2027-programacao-completa/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/exposicao-pade-ona-encontrar-caminhos/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/calendario-nautico-de-salvador-2026-programacao-de-novembro/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/exposicao-3-obas-de-xango/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/copa-salvador-interbairros-de-futebol-amador-2026/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/exposicao-nem-todo-viandante-anda-estradas-da-humanidade-como-pratica/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/espetaculo-tarsila-a-brasileira/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/orgulho-de-viver-salvador-guia-de-eventos-lgbtqia/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/exposicao-atlantico-sertao/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/ensaios-de-verao-da-timbalada-2027-confira-programacao/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/pelas-ruas-de-salvador-agenda-completa-de-corridas-de-2026/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/exposicao-narrativas-da-beleza/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/exposicao-o-reinado-do-riso/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/lavagem-do-bonfim/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/lavagem-de-itapua/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/festa-de-santa-barbara/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/pre-carnaval-fuzue/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/calendario-nautico-de-salvador-2026-programacao-de-dezembro/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/categoria-agenda/shows-e-festas/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/orgulho-de-viver-salvador-guia-de-eventos-lgbtqia/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/ensaios-de-verao-da-timbalada-2027-confira-programacao/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/guilherme-arantes-apresenta-50-anos-luz/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/sankara-radio-show/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/celo-dut-apresenta-rei-das-ruas-show-de-lancamento/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/o-que-ta-rolando-em-salvador-de-26-a-29-de-novembro-de-2026/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/turne-dominguinho-joao-gomes-mestrinho-e-jotape/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/roda-de-samba-reggae-na-casa-rosa/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/republica-do-reggae-2026-edson-gomes-adao-negro-e-muito-mais/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/pagogin-so-na-paquera-guga-meyra-e-mais/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/jam-no-mam-homenageia-moacir-santos/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/ambar-session-rb-e-afrobeat/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/categoria-agenda/exposicoes/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/exposicao-pade-ona-encontrar-caminhos/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/exposicao-3-obas-de-xango/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/exposicao-nem-todo-viandante-anda-estradas-da-humanidade-como-pratica/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/exposicao-atlantico-sertao/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/exposicao-narrativas-da-beleza/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/exposicao-o-reinado-do-riso/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/casa-do-benin-recebe-exposicao-ntangulumeso/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/exposicao-encontro-com-o-tempo/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/arte-em-cartaz-guia-de-exposicoes-em-salvador/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/categoria-agenda/teatro/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/espetaculo-tarsila-a-brasileira/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/espetaculo-arrocha-aceita-esse-musical-que-doi-menos/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/espetaculo-chame-gente-um-carnaval-em-cada-esquina-temporada-2027/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/categoria-agenda/gratuitos/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/exposicao-3-obas-de-xango/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/copa-salvador-interbairros-de-futebol-amador-2026/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/exposicao-atlantico-sertao/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/exposicao-narrativas-da-beleza/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/exposicao-o-reinado-do-riso/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/casa-do-benin-recebe-exposicao-ntangulumeso/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/exposicao-encontro-com-o-tempo/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/bando-de-teatro-olodum-em-oficina-de-performance-negra-2026/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/19a-caminhada-nacional-do-samba/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/festa-de-nossa-senhora-da-conceicao-da-praia-2026-confira-programacao/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/festa-de-santa-barbara-2026-confira-programacao/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/salon-du-chocolat-brasil/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/categoria-agenda/danca/",
+   "status": 200
+  },
+  {
+   "url": "https://www.salvadordabahia.com/eventos/bando-de-teatro-olodum-em-oficina-de-performance-negra-2026/",
+   "status": 200
+  },
+  {
+   "url": "https://www.bilheteriadigital.com/busca/salvador",
+   "status": 200
+  },
+  {
+   "url": "https://bd.bilheteriadigital.com/produtor",
+   "status": 200
+  },
+  {
+   "url": "https://www.bilheteriadigital.com/atendimento",
+   "status": 403
+  },
+  {
+   "url": "https://www.bilheteriadigital.com/final-copa-do-brasil-gremio-x-palmeiras-06-de-dezembro",
+   "status": 200
+  },
+  {
+   "url": "https://www.bilheteriadigital.com/bailaum-black-bang-04-de-dezembro",
+   "status": 200
+  },
+  {
+   "url": "https://www.bilheteriadigital.com/wine-nights-experience-05-de-dezembro",
+   "status": 200
+  },
+  {
+   "url": "https://www.bilheteriadigital.com/festinha-massa-08-de-dezembro",
+   "status": 200
+  },
+  {
+   "url": "https://www.bilheteriadigital.com/pagodiggo-19-de-dezembro",
+   "status": 200
+  },
+  {
+   "url": "https://www.bilheteriadigital.com/som-de-jorge-25-de-dezembro",
+   "status": 200
+  },
+  {
+   "url": "https://www.bilheteriadigital.com/TransferUP",
+   "status": 200
+  },
+  {
+   "url": "https://www.bilheteriadigital.com/reveillon-vira-salvador-2027",
+   "status": 200
+  },
+  {
+   "url": "https://www.bilheteriadigital.com/canto-da-sereiona-09-de-janeiro",
+   "status": 200
+  },
+  {
+   "url": "https://www.bilheteriadigital.com/bloco-chuveirao-2027-03-de-fevereiro",
+   "status": 200
+  },
+  {
+   "url": "https://www.bilheteriadigital.com/camarote-baiano-2027",
+   "status": 200
+  },
+  {
+   "url": "https://www.bilheteriadigital.com/bloco-uau-cha-da-alice-04-de-fevereiro",
+   "status": 200
+  },
+  {
+   "url": "https://www.bilheteriadigital.com/emicida-racional-15-de-maio",
+   "status": 200
+  },
+  {
+   "url": "https://bd.bilheteriadigital.com/quem-somos",
+   "status": 200
+  },
+  {
+   "url": "https://bd.bilheteriadigital.com/nova-marca",
+   "status": 200
+  },
+  {
+   "url": "https://bd.bilheteriadigital.com/nossas-lojas",
+   "status": 200
+  },
+  {
+   "url": "https://bd.bilheteriadigital.com/politica-privacidade",
+   "status": 200
+  },
+  {
+   "url": "https://bd.bilheteriadigital.com/termos-uso",
+   "status": 200
+  },
+  {
+   "url": "https://bd.bilheteriadigital.com/assessoria",
+   "status": 200
+  },
+  {
+   "url": "https://bd.bilheteriadigital.com/trabalhe-conosco",
+   "status": 200
+  },
+  {
+   "url": "https://bd.bilheteriadigital.com/app",
+   "status": 200
+  },
+  {
+   "url": "https://bd.bilheteriadigital.com/midia-kit",
+   "status": 200
+  },
+  {
+   "url": "https://www.bilheteriadigital.com/assessoria-imprensa",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/Eventos",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/MinhaConta/Pedidos",
+   "status": 200
+  },
+  {
+   "url": "https://ticketmaker.com.br/central-de-ajuda/",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/Login",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/bloco-da-resenha/29738-100",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/bloco-inimigos-do-fim-2027/29704-691",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/carnaval-2027/6716-3",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/camarote-varanda-da-barra-2027/6693-29",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/bloco-da-quinta-2027/6700-3",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/camarote-baiano-2027/6992-217",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/bloco-uau-cha-da-alice-2027/6721-177",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/camarote-da-barra-2027/7340-850",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/camarote-harem-soho-2027/6728-217",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/camarote-club-2027/6749-273",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/camarote-cabana-da-barra-2027/6768-1127",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/camarote-brahma-salvador-2027/6835-31",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/camarote-brahma-salvador-2027-double/29511-31",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/camarote-brahma-salvador-2027-triple/29512-31",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/camarote-villa-2027/6754-210",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/camarote-salvador-2027-full-pass/6725-240",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/camarote-salvador-2027/6867-240",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/camarote-salvador-2027-special-pass/6868-240",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/bloco-alerta-geral-2027/7011-205",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/bloco-amor-paixao-2027/6696-296",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/bloco-do-vumbora-2027/6698-3",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/vem-com-o-gigante-bloco-do-nana-2027/6699-3",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/bloco-alvorada-2027/6695-290",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/bloco-fissura-2027/7339-435",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/camarote-glamour-2027/7188-188",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/bloco-cheiro-2027/6850-29",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.ticketmaker.com.br/evento/bloco-coruja-2027/7282-686",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.boratickets.com.br/",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.boratickets.com.br/quem-somos",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.boratickets.com.br/central-de-ajuda",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.boratickets.com.br/eventos",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.boratickets.com.br/evento/385/camarote-glamour-2027",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.boratickets.com.br/evento/392/republica-do-reggae-2026",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.boratickets.com.br/evento/386/bloco-timbalada-2027",
+   "status": 200
+  },
+  {
+   "url": "https://vendas.boratickets.com.br/legal/politica-privacidade",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/eventos",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/arrochae-klessinha-unha-pintada-e-thiago-aquino",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/republica-do-reggae-2026",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/turne-dominguinho",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/arrocha-and-seresta",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/resenha-do-mumu-turne-10-anos",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/ensaios-do-pagod-art",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/samba-do-setor",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/festival-hit",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/alexandre-pires-pagonejo-bao",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/jau-na-concha-40-anos-de-carreira",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/alo-saudade",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/silvanno-das-antigas",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/dvd-intensidade-no-resenha-do-boca",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/sarau-du-brown",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/liniker-bye-bye-caju",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/o-maior-encontro-do-samba-alcione-jorge-aragao-e-zeca-pagodinho",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/cpm-22-turne-30-anos",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/e-a-bahia-vida-baco-exu-do-blues-e-o-kannalha",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/reveillon-banjo-novo-o-nosso-reveillon",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/reveillon-patamares",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/reveillon-baluarte",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/baile-da-santinha-2027",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/por-do-jau-2027",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/churrasquinho-menos-e-mais",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/ensaio-do-pai",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/a-melhor-segunda-2027",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/xande-and-jau",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/muquisamba-2027",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/isso-e-calypso-tour",
+   "status": 200
+  },
+  {
+   "url": "https://www.pida.com.br/evento/turne-vice-versa-arnaldo-antunes-e-adriana-calcanhotto",
+   "status": 200
+  },
+  {
+   "url": "https://www.noktatickets.com.br/eventos/em/salvador",
+   "status": 200
+  },
+  {
+   "url": "https://www.noktatickets.com.br/eventos",
+   "status": 200
+  },
+  {
+   "url": "https://www.noktatickets.com.br/eventos/em/rio-de-janeiro",
+   "status": 200
+  },
+  {
+   "url": "https://www.noktatickets.com.br/eventos/em/sao-paulo",
+   "status": 200
+  },
+  {
+   "url": "https://www.noktatickets.com.br/eventos/em/belo-horizonte",
+   "status": 200
+  },
+  {
+   "url": "https://www.noktatickets.com.br/eventos/em/porto-seguro",
+   "status": 200
+  },
+  {
+   "url": "https://www.noktatickets.com.br/eventos/em/brasilia",
+   "status": 200
+  },
+  {
+   "url": "https://www.noktatickets.com.br/eventos/em/florianopolis",
+   "status": 200
+  },
+  {
+   "url": "https://www.noktatickets.com.br/eventos/em/curitiba",
+   "status": 200
+  },
+  {
+   "url": "https://www.noktatickets.com.br/eventos/em/juiz-de-fora",
+   "status": 200
+  },
+  {
+   "url": "https://www.noktatickets.com.br/eventos/em/recife",
+   "status": 200
+  },
+  {
+   "url": "https://www.noktatickets.com.br/eventos/em/uberlandia",
+   "status": 200
+  },
+  {
+   "url": "https://www.noktatickets.com.br/eventos/em/armacao-dos-buzios",
+   "status": 200
+  },
+  {
+   "url": "https://www.noktatickets.com.br/eventos/em/maua",
+   "status": 200
+  },
+  {
+   "url": "https://www.eventim.com.br/city/salvador-1143/",
+   "status": "timeout"
+  },
+  {
+   "url": "https://www.ingresse.com/",
+   "status": 403
+  },
+  {
+   "url": "https://site.bileto.sympla.com.br/casarosa/",
+   "status": 200
+  },
+  {
+   "url": "https://www.balcaodeingressos.com/",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/bday-nick-camisa-10/935",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/momento-salvador/884",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/aquele-pagode-26-11-18h/936",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/reveillon-exclusive-morro/708",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/so-toca-funk-retro/880",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/pedro-qualy-no-horto/758",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/reveillon-das-patroas/786",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/reveillon-do-sotero-2027/886",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/baile-de-favela/877",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/meu-samba-27-11/941",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/after-enem-2/898",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/aperte-o-play/942",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/as-bb-quer-funk/940",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/funk-sem-filtro/944",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/spring-sessions-festa-da-espuma/949",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/super-sabado-28-11/946",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/after-da-rino-demolidor/859",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/bailim-anjinhas-diabinhas/939",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/beats-festinha/943",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/saideira-de-domingo-29-11/947",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/vinnis-convidam-black-friday-30-11/948",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/bailim-anjinhas-diabinhas/938",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/fica-vai-ter-funk-na-eco/937",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/analagia-2-0/945",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/escuna-rave/804",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/retorno-da-walvula/934",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/pre-carna-da-carisma/928",
+   "status": 200
+  },
+  {
+   "url": "https://ingratickets.com.br/evento/1a-corrida-de-itaparica/926",
+   "status": 200
+  },
+  {
+   "url": "https://uhuu.com/",
+   "status": 200
+  },
+  {
+   "url": "https://uhuu.com/evento/ba/salvador/cpm-22-16918",
+   "status": 200
+  },
+  {
+   "url": "https://www.guicheweb.com.br/",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/hybrid-theory-maceio",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/mariscada-dezembro",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/eco-parque-arraial-dajuda-novembro-2026",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/eco-parque-arraial-dajuda-dezembro-2026",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/natal-area-beach-2026",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/auge-by-p3",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/arrocha-a-vontade",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/aniversario-do-morocha",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/salvador-pro-tour-stu-park-2026-semifinais-finais",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/salvador-pro-tour-stu-park-fase-1-e-fase-2",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/samba-do-piramba",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/reveillon-maravilha-2027",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/hybrid-theory-fortaleza",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/super-maquinas-fortaleza-28112026",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/4-anos-nossa-resenha",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/the-plane-dezembro-new-york-1012",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/the-plane-dezembro-new-york-1612",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/leq-samba-10-anos",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/sunsetfelipeerodrigocafedelamusique",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/vibrarock-2027",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/modao-da-doma-rodrigo-bala-e-diego-santana",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/flashback-ritmada-neon-experience",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/festival-baco-calor-tropical",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/me-beija-2711",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/e-o-groove",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/astral-2811",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/domingou-nova-extrela",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/5-revellion-p9-beach-club",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/show-de-temporada",
+   "status": 200
+  },
+  {
+   "url": "https://zig.tickets/evento/show-rock-101-school-of-rock",
+   "status": 200
+  },
+  {
+   "url": "https://appticket.com.br/estado/bahia",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/salvador/musica",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/aa603f94-5438-464a-b8c8-3d71df9cf043",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/ddfa6f2d-b2fa-4cef-a5cf-868ad75bc97c",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/f450d500-7715-46f8-a4c6-6e61692a2ab6",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/0ddbe320-7744-4aae-a5bb-bdd8172f69de",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/6a9f902a-46d6-4080-9feb-da37b216f58f",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/e256ad3a-0d27-422c-a253-129be1b390ee",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/7738fe01-dd90-4737-ac07-aebc961cb27f",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/767e044d-9ce7-4df9-bf0d-7497ee10bc01",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/3bc0fae4-e796-4f1d-921d-73f842ada241",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/667fdb38-f96c-4d39-8e41-c8ad07219b40",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/b96902e1-7ceb-4e12-85b5-c96af557b2cf",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/ca938fbc-a91c-473e-83db-31edf61a8442",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/2363d460-9758-45a7-81bf-cb24201c2d35",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/ef47d291-5a13-4d38-99a6-6241e9a46984",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/39e4db7f-8395-4b4b-8c90-c89f739cabd2",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/d5319c45-d1f6-48f8-8617-e16a0b416828",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/2b744558-c2bc-4e64-936a-fc0204fb91a5",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/5e5a9589-7a32-41a0-a972-129332af7566",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/01e72d03-6c70-4b1d-9afa-6a9b39ecb691",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/522aa34d-518a-4811-962d-9f78da41dee1",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/7bead1ae-b654-43b1-874e-2fecdad24b9d",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/390ba1e7-e05f-40e9-9841-a00b0c68779c",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/37f46542-1cbd-4128-ba6f-904b7c5527d5",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/4021340c-8381-46af-8188-f65fe6759ee6",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/99ad6b63-5e5d-4f22-8853-2f3bfa3601a1",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/1cb7d4dc-3c28-4ac8-abd0-a2d021b9b648",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/7edb1a00-ce5c-498a-81f8-bcedee25687a",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/e57c0640-74d6-45ab-834b-ce39505322cb",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/e4d2bdf3-3c3c-4dad-b117-09b08030dc82",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/7a081bd5-f769-4ee4-8976-fcbb73c59721",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/salvador/teatro",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/f51d2a27-6ea5-425b-9156-686857aa2727",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/0a303f82-522e-4ca1-a769-04e3ef323070",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/a6f96b52-53bf-454c-87ff-7346b7b3a480",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/dabdd62e-dffa-4485-8d54-4c098a5afdab",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/df2e2a5e-a628-42c1-b506-3eb48d9689e4",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/67530cc3-6e9e-46ba-a5dc-b492845737cd",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/a8133d70-5059-4ba5-89bf-69b0474bd04b",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/f66f7771-3195-407e-93e1-66b9bea4d08c",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/9ae21f72-c7a2-4d2c-89b9-28ebbd05c464",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/85c8d6db-3cb6-4045-9f03-7673781d54c9",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/cadce1df-c0b0-4aef-8b99-8322c393e742",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/b6159351-957c-4fc8-a1b5-07ef3642fcb7",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/d9771ee0-1b91-4b75-830c-413299ed5633",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/54288761-0408-4594-9a10-1cf79097e150",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/e8b71be8-0a35-4260-9471-3461c08834fc",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/d96c1e82-ce52-4054-9f46-7d4ead6b89bf",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/751e059b-a426-43d1-8356-3658ca9955b4",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/f9444dcd-d2c3-4654-9253-90ce753b813d",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/922b867a-4aec-4c96-9c12-20891280d71d",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/c30fce94-712d-4bc4-9e16-053e233a5055",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/a5b447b4-1f84-4232-a5c0-baf9c7ee625a",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/181830e6-27ef-4746-bc21-26dc66dbdad5",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/fbb425ae-5a2a-4d9f-a57f-15d4a39194af",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/9d1e01a3-e2a1-4f17-a565-4a6b6f369c6f",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/a4807a35-b182-41d0-a293-ee274bd50146",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/c4d5c0db-4f52-48de-bea4-ede37bd6c95b",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/salvador/exposicoes",
+   "status": 404
+  },
+  {
+   "url": "https://agendasalvador.com.br/salvador/centro",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/0a303f82-522e-4ca1-a769-04e3ef323070",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/46dc6fc7-1a2d-403f-9fab-d0b6ca06ad4d",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/ddfa6f2d-b2fa-4cef-a5cf-868ad75bc97c",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/e0c4b321-9a41-4bfa-aab8-a587f124c6a6",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/53b23ec5-9d74-49ef-8f14-3c896da422c9",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/71373ed1-2db6-4f20-a5a1-8a4456e93bbb",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/f450d500-7715-46f8-a4c6-6e61692a2ab6",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/0ddbe320-7744-4aae-a5bb-bdd8172f69de",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/ca938fbc-a91c-473e-83db-31edf61a8442",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/2363d460-9758-45a7-81bf-cb24201c2d35",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/df2e2a5e-a628-42c1-b506-3eb48d9689e4",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/d5319c45-d1f6-48f8-8617-e16a0b416828",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/3408716c-c2d4-4d4e-abc8-6bc96c04ff83",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/7738fe01-dd90-4737-ac07-aebc961cb27f",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/c442085d-a248-48e8-9eda-e77c5a8197c4",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/ca0c06eb-cb28-4f0d-a765-ed65ae4e0030",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/9ae21f72-c7a2-4d2c-89b9-28ebbd05c464",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/01480592-fd12-41f1-9585-aa3245c14bed",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/a9fe5d87-e325-4ca1-a0e2-fe994ffcf11f",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/a7917a73-e3b8-4573-8ed7-e441acff349d",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/7bead1ae-b654-43b1-874e-2fecdad24b9d",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/5d1c43da-8314-4b6b-9c28-c3a09f53bb92",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/41ba6f66-9b38-4719-bdc1-863ee83fc154",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/85c8d6db-3cb6-4045-9f03-7673781d54c9",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/7edb1a00-ce5c-498a-81f8-bcedee25687a",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/7a081bd5-f769-4ee4-8976-fcbb73c59721",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/99c57412-0e58-4f22-82c2-8b7dc3dd106f",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/ef094c52-7d15-4d1c-ac68-cd18fc7e6ae1",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/48f91b56-202c-4d4c-a64d-ceb7b3813b38",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/b40b30e9-3c62-4c08-b5f4-3783c0a4cfca",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/salvador/rio-vermelho",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/f51d2a27-6ea5-425b-9156-686857aa2727",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/9a0eb364-c2d1-4032-bdb0-ef200a9b5558",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/6a9f902a-46d6-4080-9feb-da37b216f58f",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/4c8d712f-34a1-47aa-b6c6-6f9510ef8a31",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/e256ad3a-0d27-422c-a253-129be1b390ee",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/29502abe-47d2-4c72-a3a7-f375fe6b391e",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/767e044d-9ce7-4df9-bf0d-7497ee10bc01",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/5e5a9589-7a32-41a0-a972-129332af7566",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/39e4db7f-8395-4b4b-8c90-c89f739cabd2",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/522aa34d-518a-4811-962d-9f78da41dee1",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/2b744558-c2bc-4e64-936a-fc0204fb91a5",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/01e72d03-6c70-4b1d-9afa-6a9b39ecb691",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/cadce1df-c0b0-4aef-8b99-8322c393e742",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/4dafb8cd-732b-4b3a-b862-0821c2120900",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/86aeb92d-1388-4f87-8616-ece318abf82f",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/e10c07d6-4210-4be4-9512-3fd20c9f7a88",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/4021340c-8381-46af-8188-f65fe6759ee6",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/37f46542-1cbd-4128-ba6f-904b7c5527d5",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/1cb7d4dc-3c28-4ac8-abd0-a2d021b9b648",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/e57c0640-74d6-45ab-834b-ce39505322cb",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/ba5b6aec-ef44-4dd1-931b-1e191a1687f9",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/c43af0fe-9a58-4e9a-8e7c-91d26cb76f47",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/2415e233-3325-4ba5-89db-f37de414ea6e",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/961102eb-da74-47e1-b73e-c52131e494f7",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/54288761-0408-4594-9a10-1cf79097e150",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/f8c1a3e6-2cec-435f-a4e6-fc3c7f221e5d",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/e8b71be8-0a35-4260-9471-3461c08834fc",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/d96c1e82-ce52-4054-9f46-7d4ead6b89bf",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/8726b1eb-9926-48e8-b5ad-511a595a7d53",
+   "status": 200
+  },
+  {
+   "url": "https://agendasalvador.com.br/evento/bee8d1f9-8198-4813-8123-7a642fce6440",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos?when=data&amp;date=2026-11-26",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos?when=data&amp;date=2026-11-27",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos?when=data&amp;date=2026-11-28",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos?when=data&amp;date=2026-11-29",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos?when=data&amp;date=2026-11-30",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos?when=data&amp;date=2026-12-01",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos?when=data&amp;date=2026-12-02",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos?when=data&amp;date=2026-12-03",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos?when=data&amp;date=2026-12-04",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos?when=data&amp;date=2026-12-05",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos?when=data&amp;date=2026-12-06",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos?when=data&amp;date=2026-12-07",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos?when=data&amp;date=2026-12-08",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos?when=data&amp;date=2026-12-09",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos?view=list",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos/1783-daniel-ferreira-em-vai-viver-comigo-ou-vai-me-ver-vivendo-2026-11-26",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos/1869-jantar-ifr-2026-11-24",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos/1509-pedro-iaco-apresenta-sangria-2026-11-26",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos/1966-circo-portugal-quinta-26-nov-as-20h-2026-11-26",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos/1484-elis-a-voz-do-brasil-catharina-gonzaga-canta-elis-regina-2026-11-26",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos/1362-stand-up-de-carol-delgado-energia-feminina-2026-11-26",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos/906-tarsila-a-brasileira-2026-11-26",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos/601-planetario-e-observatorio-da-ufba-sessao-aaab-2026-08-27",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos/1882-climaxx-transmission-saddest-smile-show-oficial-2026-11-27",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos/1996-roberto-mendes-paulo-mutti-2026-11-27",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos/2016-oficina-de-calistenia-2026-11-27",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos/2015-aula-viva-gamboa-saberes-ancestrais-a-beira-da-baia-edicao-especial-salvador-capital-afro-2026-11-27",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos?page=2",
+   "status": 200
+  },
+  {
+   "url": "https://rapana.com.br/salvador/eventos?page=27",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/eventos/circo-picolino-realiza-festival-internacional-viva-circo-programacao-gratuita-salvador/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/danca/baile-melhor-idade-reune-musica-danca-decadas-1950-1970-lauro-freitas/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/eventos/culinaria-musical-encerra-2026-juliana-ribeiro-taian-riachao-lazzo-matumbi/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/musica/cinesom-celebra-cassia-eller-cinema-museu-nesta-sexta-27/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/teatro/encontro-teatro-lambe-lambe-ocupa-praca-espetaculos-gratuitos-neste-semana/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/agendartecultura",
+   "status": 404
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/sobre/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/category/artes-visuais/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/category/audiovisual-2/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/category/danca/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/category/entrevistas/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/category/eventos/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/category/fotografia/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/category/livro-e-leitura/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/category/musica/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/category/noticias/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/category/patrimonio/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/category/teatro/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/category/materias-especiais-2/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/category/equipamentos-culturais/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/centro-de-estudos-afro-orientais/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/galeria-canizares/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/museu-afro-brasileiro/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/museu-de-anatomia-comparada/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/museu-de-arqueologia-e-etnologia/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/museu-de-arte-sacra-da-bahia/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/museu-de-zoologia/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/sala-de-arte-cinema-da-ufba/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/teatro-martim-goncalves/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendartecultura.com.br/teatro-do-movimento/",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendaculturalsalvador.com.br/categoria/teatro-salvador",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendaculturalsalvador.com.br/event/b3051a05-fdd3-4879-a3e1-eb2119ec5e2b",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendaculturalsalvador.com.br/event/80228af3-1f90-43cf-8fd0-c4e8e2115bf5",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendaculturalsalvador.com.br/event/52b1e6e0-b0c6-4b76-8b08-443b8d288256",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendaculturalsalvador.com.br/event/4f56d214-180a-488e-915e-bc4509d418f3",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendaculturalsalvador.com.br/event/b53c8604-b428-4521-9a0f-7df4ffa766fa",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendaculturalsalvador.com.br/event/27e7007a-b106-4c96-8149-9aa2e3bde0a8",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendaculturalsalvador.com.br/eventos-salvador-hoje",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendaculturalsalvador.com.br/mapa",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendaculturalsalvador.com.br/roteiros",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendaculturalsalvador.com.br/distrito-comercio",
+   "status": 500
+  },
+  {
+   "url": "https://www.agendaculturalsalvador.com.br/sobre",
+   "status": 200
+  },
+  {
+   "url": "https://www.agendaculturalsalvador.com.br/api/events",
+   "status": 200
+  },
+  {
+   "url": "https://elcabong.com.br/",
+   "status": 200
+  },
+  {
+   "url": "https://soteroteatro.com.br/",
+   "status": 200
+  },
+  {
+   "url": "https://soteroteatro.com.br/evento/10d54dd0-1ab8-4134-95f9-06f2c0068f45",
+   "status": 200
+  },
+  {
+   "url": "https://simbora.net/",
+   "status": 200
+  },
+  {
+   "url": "https://batekoo.com/eventos/",
+   "status": 200
+  },
+  {
+   "url": "https://www.guiagaysalvador.com.br/roteiro/",
+   "status": 200
+  },
+  {
+   "url": "https://www.movimentobocadebrasa.com.br/",
+   "status": 200
+  },
+  {
+   "url": "https://www.ba.gov.br/cultura/eventos",
+   "status": 200
+  },
+  {
+   "url": "https://www.ba.gov.br/fundacaocultural/5524/agenda-cultural-bahia",
+   "status": 200
+  },
+  {
+   "url": "https://www.ba.gov.br/ipac/noticias",
+   "status": 200
+  },
+  {
+   "url": "https://www.ba.gov.br/ipac/noticias/2026-11/10141/memorial-das-matriarcas-ode-kayode-completa-um-ano-preservando-memoria-de",
+   "status": 200
+  },
+  {
+   "url": "http://www.ba.gov.br/ipac/noticias/2026-11/10141/memorial-das-matriarcas-ode-kayode-completa-um-ano-preservando-memoria-de",
+   "status": 200
+  },
+  {
+   "url": "https://www.ba.gov.br/ipac/noticias/2026-11/10140/centenario-de-genaro-de-carvalho-inspira-doacao-de-matriz-de-xilogravura-de",
+   "status": 200
+  },
+  {
+   "url": "http://www.ba.gov.br/ipac/noticias/2026-11/10140/centenario-de-genaro-de-carvalho-inspira-doacao-de-matriz-de-xilogravura-de",
+   "status": 200
+  },
+  {
+   "url": "https://www.ba.gov.br/ipac/noticias/2026-11/10139/xilogravura-de-hansen-bahia-presenteada-genaro-e-nair-de-carvalho-sera-doada",
+   "status": 200
+  },
+  {
+   "url": "http://www.ba.gov.br/ipac/noticias/2026-11/10139/xilogravura-de-hansen-bahia-presenteada-genaro-e-nair-de-carvalho-sera-doada",
+   "status": 200
+  },
+  {
+   "url": "https://www.ba.gov.br/ipac/noticias/2026-11/10138/terno-da-saudade-encerra-festa-dajuda-em-cachoeira-patrimonio-imaterial-da",
+   "status": 200
+  },
+  {
+   "url": "http://www.ba.gov.br/ipac/noticias/2026-11/10138/terno-da-saudade-encerra-festa-dajuda-em-cachoeira-patrimonio-imaterial-da",
+   "status": 200
+  },
+  {
+   "url": "https://www.ba.gov.br/ipac/noticias/2026-11/10137/mam-ba-inaugura-espaco-solar-e-celebra-centenario-de-genaro-de-carvalho",
+   "status": 200
+  },
+  {
+   "url": "http://www.ba.gov.br/ipac/noticias/2026-11/10137/mam-ba-inaugura-espaco-solar-e-celebra-centenario-de-genaro-de-carvalho",
+   "status": 200
+  },
+  {
+   "url": "https://www.ba.gov.br/ipac/noticias/2026-11/10136/grupo-garagem-comemora-seus-45-anos-na-edicao-de-sabado-da-jam-no-mam-no",
+   "status": 200
+  },
+  {
+   "url": "http://www.ba.gov.br/ipac/noticias/2026-11/10136/grupo-garagem-comemora-seus-45-anos-na-edicao-de-sabado-da-jam-no-mam-no",
+   "status": 200
+  },
+  {
+   "url": "https://www.ba.gov.br/ipac/noticias/2026-11/10135/museus-do-ipac-inauguram-tres-novas-exposicoes-neste-fim-de-semana",
+   "status": 200
+  },
+  {
+   "url": "http://www.ba.gov.br/ipac/noticias/2026-11/10135/museus-do-ipac-inauguram-tres-novas-exposicoes-neste-fim-de-semana",
+   "status": 200
+  },
+  {
+   "url": "https://www.ba.gov.br/ipac/noticias/2026-11/10134/flica-tera-jogos-interativos-sobre-patrimonio-cultural-e-museus-baianos",
+   "status": 200
+  },
+  {
+   "url": "http://www.ba.gov.br/ipac/noticias/2026-11/10134/flica-tera-jogos-interativos-sobre-patrimonio-cultural-e-museus-baianos",
+   "status": 200
+  },
+  {
+   "url": "https://www.ba.gov.br/ipac/noticias/2026-11/10133/centro-cultural-solar-ferrao-sedia-i-simposio-internacional-de-museus-e",
+   "status": 200
+  },
+  {
+   "url": "http://www.ba.gov.br/ipac/noticias/2026-11/10133/centro-cultural-solar-ferrao-sedia-i-simposio-internacional-de-museus-e",
+   "status": 200
+  },
+  {
+   "url": "https://www.ba.gov.br/ipac/museus-0",
+   "status": 200
+  },
+  {
+   "url": "https://www.ba.gov.br/tca/eventos",
+   "status": 200
+  },
+  {
+   "url": "https://www.cms.ba.gov.br/CMS/public/agenda",
+   "status": 200
+  },
+  {
+   "url": "https://www.caixacultural.gov.br/Paginas/Salvador.aspx",
+   "status": 403
+  },
+  {
+   "url": "https://ccbb.com.br/salvador/programacao/",
+   "status": "timeout"
+  },
+  {
+   "url": "https://teatrovilavelha.com.br/tempo/",
+   "status": 200
+  },
+  {
+   "url": "https://teatrovilavelha.com.br/sobre/",
+   "status": 200
+  },
+  {
+   "url": "https://teatrovilavelha.com.br/falavila/",
+   "status": 200
+  },
+  {
+   "url": "https://teatrovilavelha.com.br/projetos/",
+   "status": 200
+  },
+  {
+   "url": "https://teatrovilavelha.com.br/vila-danca/",
+   "status": 200
+  },
+  {
+   "url": "https://teatrovilavelha.com.br/pe-de-feijao-2/",
+   "status": 200
+  },
+  {
+   "url": "https://teatrovilavelha.com.br/mostra-teatro-de-cabo-a-rabo/",
+   "status": 200
+  },
+  {
+   "url": "https://teatrovilavelha.com.br/meia-noite-se-improvisa/",
+   "status": 200
+  },
+  {
+   "url": "https://teatrovilavelha.com.br/vila-verao/",
+   "status": 200
+  },
+  {
+   "url": "https://teatrovilavelha.com.br/vilere/",
+   "status": 200
+  },
+  {
+   "url": "https://teatrovilavelha.com.br/espacos/",
+   "status": 200
+  },
+  {
+   "url": "https://teatrovilavelha.com.br/palco-principal/",
+   "status": 200
+  },
+  {
+   "url": "https://teatrovilavelha.com.br/cabare-dos-novos/",
+   "status": 200
+  },
+  {
+   "url": "https://teatrovilavelha.com.br/sala-joao-augusto-multiuso/",
+   "status": 200
+  },
+  {
+   "url": "https://teatrovilavelha.com.br/sala-mario-gusmao/",
+   "status": 200
+  },
+  {
+   "url": "https://teatrovilavelha.com.br/foyer/",
+   "status": 200
+  },
+  {
+   "url": "https://teatrovilavelha.com.br/amigos-da-vila/",
+   "status": 200
+  },
+  {
+   "url": "https://teatrovilavelha.com.br/contato/",
+   "status": 200
+  },
+  {
+   "url": "https://teatrogamboa.com.br/agenda/",
+   "status": 200
+  },
+  {
+   "url": "https://teatromodulo.com.br/programacao",
+   "status": 200
+  },
+  {
+   "url": "https://teatromodulo.com.br/Sobre",
+   "status": 200
+  },
+  {
+   "url": "https://teatromodulo.com.br/Apresentese",
+   "status": 200
+  },
+  {
+   "url": "https://teatromodulo.com.br/Bilheteria",
+   "status": 200
+  },
+  {
+   "url": "https://teatromodulo.com.br/contato",
+   "status": 200
+  },
+  {
+   "url": "https://teatromodulo.com.br/evento/saudades-joao",
+   "status": 200
+  },
+  {
+   "url": "https://teatromodulo.com.br/evento/fanta-pandora-uma-folia-no-inverno-",
+   "status": 200
+  },
+  {
+   "url": "https://teatromodulo.com.br/evento/r-1-99---um-espetaculo-de-ricardo-castro-k",
+   "status": 200
+  },
+  {
+   "url": "https://teatromodulo.com.br/sobre",
+   "status": 200
+  },
+  {
+   "url": "https://teatromodulo.com.br/bilheteria",
+   "status": 200
+  },
+  {
+   "url": "https://teatromodulo.com.br/apresentese",
+   "status": 200
+  },
+  {
+   "url": "https://www.sescbahia.com.br/programacao",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/escola/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/ensino/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/extensao/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/espacos/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/noticias/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/galeria/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/manutencao-2024-2026quatro/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/escola-de-teatro/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/lancamento-pretamorphosis/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/de-3108-a-0309-quinta-a-domingo-no-teatro-martim/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/teatro-martim-goncalves1/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/novas-apresentacoes-do-espetaculo-agora-no-teatro/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/a-escola-de-teatro-da-ufba-apresenta-roda-viva-/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/malasombra/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/oficina-teatro-do-oprimido-e-palhacaria-na-educacao/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/defesa-de-dissertacao-de-fabricio-castello-branco/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/mostra-cenica-de-processos-de-encenacao/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/o-jogo-da-improvisacao-corporal-e-o-eixo-principal/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/coisar-coisas/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/jacinto-morto/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/o-bom-lugar-mostra-cena-aberta/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/defesa-de-tese-de-fernanda-beltrao/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/defesa-de-tese-de-taina-assim/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/rainhas/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/ifigenia-agamemnon-electra/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/mostra-do-laboratorio-de-direcao---a-cena-aberta/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/mostra-de-processos-de-encenacao-2023.1",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/abcdafome/",
+   "status": "erro"
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/por-uma-universidade-contemporanea---desafios/",
+   "status": 200
+  },
+  {
+   "url": "https://teatro.ufba.br/agenda/conversas-de-teatro-o-que-e-uma-aula-negra-de-teatro/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/programacao/mes/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/a-casa-rosa/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/programacao/lista/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/patio-viracao/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/teatro-cambara/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/sala-rosa/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/galeria-dos-ventos/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/quinta-da-casa/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/iemanja/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/exposicao-cartas-dagua/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/institucional/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/programacao/mes/2026-10/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/programacao/mes/2026-12/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/programacao/2026-10-29/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/evento/quinta-da-casa-apresenta-classicas-de-fulanas-cia-de-circo/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/programacao/2026-11-05/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/evento/quinta-da-casa-apresenta-niquim-de-guias-cegos/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/programacao/2026-11-06/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/evento/uana-apresenta-a-estrela/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/programacao/2026-11-07/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/programacao/2026-11-15/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/evento/fogo-apresenta-novos-ventos/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/programacao/2026-11-19/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/evento/quinta-da-casa-1798-lucas-dantas-um-heroi-de-buzios-de-tom-machado/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/programacao/2026-11-27/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/evento/celo-dut-apresenta-rei-das-ruas/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/programacao/2026-11-28/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/evento/roda-de-samba-reggae-com-marcia-castro-edicao-festa-da-democracia/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/programacao/2026-11-29/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/programacao/2026-12-04/",
+   "status": 200
+  },
+  {
+   "url": "https://casarosasalvador.com.br/evento/festa-de-iansa-na-casa-rosa-2/",
+   "status": 200
+  },
+  {
+   "url": "https://jorgeamado.org.br/",
+   "status": 200
+  },
+  {
+   "url": "https://www.museunauticodabahia.org.br/eventos/",
+   "status": 200
+  },
+  {
+   "url": "https://muncab.com.br/",
+   "status": 403
+  },
+  {
+   "url": "https://www.goethe.de/ins/br/pt/sta/sal/ver.cfm",
+   "status": 403
+  },
+  {
+   "url": "https://www.saladearte.art.br/",
+   "status": 200
+  },
+  {
+   "url": "https://www.teatrojorgeamado.com.br/",
+   "status": "erro"
+  },
+  {
+   "url": "https://www.pierreverger.org/",
+   "status": 200
+  },
+  {
+   "url": "https://mafro.ceao.ufba.br/",
+   "status": "erro"
+  },
+  {
+   "url": "https://galatea.art/",
+   "status": 200
+  },
+  {
+   "url": "https://www.afsalvador.org.br/",
+   "status": "erro"
+  },
+  {
+   "url": "https://www.icba.com.br/",
+   "status": 200
+  },
+  {
+   "url": "https://www.museucostapinto.com.br/",
+   "status": 200
+  }
+ ]
+}

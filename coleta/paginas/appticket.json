@@ -1,0 +1,162 @@
+{
+ "id": "appticket",
+ "url": "https://appticket.com.br/estado/bahia",
+ "final": "https://appticket.com.br/estado/bahia",
+ "texto": "AppTicket - Plataforma de eventos para venda de ingressos online \n Para produtores Preços Encontrar eventos Ajuda \n Área do produtor Entrar Publicar evento \n Menu Para produtores Preços Encontrar eventos Ajuda \n Área do produtor Entrar \n Publicar evento \n Sair \n Eventos em Bahia\n Busca avançada \n Busca avançada\n Cidade \n Escolha a data \n Tipo de evento Todos os tipos \n Aplicar filtros \n Próximos eventos\n Lançamentos\n O AppTicket\n App de eventos App de check-in Blog Instagram Facebook TikTok \n Para o organizador\n Vender ingressos online Área do produtor Falar com um consultor Criar evento \n Para o participante\n Minhas compras Central do participante Falar com o AppTicket Termos de uso Política de privacidade \n Categorias\n Comédia Stand-up Corridas e Esportes Cursos e Workshops Eventos Religiosos Excursões e passeios Shows e festas Sociais e Empresariais Teatros e Cultura \n O Appticket é uma plataforma de eventos completa, uma bilheteria online que há mais de 10 anos oferece tecnologia de ponta para produtores de eventos de todos os tipos e tamanhos. Criar, organizar, fazer a gestão do seu evento e vender ingressos online é mais fácil e seguro com o AppTicket. Você pode divulgar eventos musicais, esportivos, empresariais, festivais, shows, cursos, teatros, palestras, encontros religiosos, festas, além de eventos online como webinars, congressos, apresentações, aulas, cursos, conferências e todo tipo de evento que imaginar! © 2023 AppTicket Reservas e Estratégias Sociais Ltda. - 18.540.147/0001-30 - Av. Vereador Narciso Yague Guimarães, 1145 - 11º andar - Mogi das Cruzes - São Paulo",
+ "jsonld": [],
+ "links": [
+  {
+   "href": "https://appticket.com.br/",
+   "txt": ""
+  },
+  {
+   "href": "https://appticket.com.br/vender-ingressos-inscricoes-online",
+   "txt": "Para produtores"
+  },
+  {
+   "href": "https://appticket.com.br/eventos",
+   "txt": "Encontrar eventos"
+  },
+  {
+   "href": "https://appticket.com.br/ajuda",
+   "txt": "Ajuda"
+  },
+  {
+   "href": "https://conta.appticket.com.br/events",
+   "txt": "Área do produtor"
+  },
+  {
+   "href": "https://appticket.com.br/minha-conta",
+   "txt": "Entrar"
+  },
+  {
+   "href": "https://appticket.com.br/criarEvento",
+   "txt": "Publicar evento"
+  },
+  {
+   "href": "https://appticket.com.br/",
+   "txt": ""
+  },
+  {
+   "href": "https://appticket.com.br/vender-ingressos-inscricoes-online",
+   "txt": "Para produtores"
+  },
+  {
+   "href": "https://appticket.com.br/eventos",
+   "txt": "Encontrar eventos"
+  },
+  {
+   "href": "https://appticket.com.br/ajuda",
+   "txt": "Ajuda"
+  },
+  {
+   "href": "https://appticket.com.br/areaProdutor/main.php",
+   "txt": "Área do produtor"
+  },
+  {
+   "href": "https://appticket.com.br/minha-conta",
+   "txt": "Entrar"
+  },
+  {
+   "href": "https://appticket.com.br/criarEvento",
+   "txt": "Publicar evento"
+  },
+  {
+   "href": "https://appticket.com.br/account/logout/logout.php?service=criarEvento&amp;continue=appticket.com.br%2Fminha-conta%2F",
+   "txt": "Sair"
+  },
+  {
+   "href": "https://appticket.com.br/download/app",
+   "txt": "App de eventos"
+  },
+  {
+   "href": "https://appticket.com.br/download/checkin",
+   "txt": "App de check-in"
+  },
+  {
+   "href": "https://blog.appticket.com.br/",
+   "txt": "Blog"
+  },
+  {
+   "href": "https://www.instagram.com/appticket",
+   "txt": "Instagram"
+  },
+  {
+   "href": "https://www.facebook.com/AppTicket",
+   "txt": "Facebook"
+  },
+  {
+   "href": "https://www.tiktok.com/@appticket_oficial",
+   "txt": "TikTok"
+  },
+  {
+   "href": "https://appticket.com.br/vender-ingressos-inscricoes-online",
+   "txt": "Vender ingressos online"
+  },
+  {
+   "href": "https://appticket.com.br/ajuda/organizador",
+   "txt": "Área do produtor"
+  },
+  {
+   "href": "https://appticket.com.br/contato/produtor",
+   "txt": "Falar com um consultor"
+  },
+  {
+   "href": "https://appticket.com.br/criarEvento",
+   "txt": "Criar evento"
+  },
+  {
+   "href": "https://appticket.com.br/status",
+   "txt": "Minhas compras"
+  },
+  {
+   "href": "https://appticket.com.br/ajuda/participante",
+   "txt": "Central do participante"
+  },
+  {
+   "href": "https://appticket.com.br/ajuda/participante",
+   "txt": "Falar com o AppTicket"
+  },
+  {
+   "href": "https://appticket.com.br/termos-de-uso",
+   "txt": "Termos de uso"
+  },
+  {
+   "href": "https://appticket.com.br/politica-de-privacidade",
+   "txt": "Política de privacidade"
+  },
+  {
+   "href": "https://appticket.com.br/categoria/comedia-stand-up",
+   "txt": "Comédia Stand-up"
+  },
+  {
+   "href": "https://appticket.com.br/categoria/corridas-e-esportes",
+   "txt": "Corridas e Esportes"
+  },
+  {
+   "href": "https://appticket.com.br/categoria/cursos-e-workshops",
+   "txt": "Cursos e Workshops"
+  },
+  {
+   "href": "https://appticket.com.br/categoria/eventos-religiosos",
+   "txt": "Eventos Religiosos"
+  },
+  {
+   "href": "https://appticket.com.br/categoria/excursoes-e-passeios",
+   "txt": "Excursões e passeios"
+  },
+  {
+   "href": "https://appticket.com.br/categoria/show-e-festas",
+   "txt": "Shows e festas"
+  },
+  {
+   "href": "https://appticket.com.br/categoria/sociais-e-empresariais",
+   "txt": "Sociais e Empresariais"
+  },
+  {
+   "href": "https://appticket.com.br/categoria/teatros-e-cultura",
+   "txt": "Teatros e Cultura"
+  }
+ ],
+ "filhos": []
+}

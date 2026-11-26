@@ -1,0 +1,240 @@
+{
+ "id": "batekoo",
+ "url": "https://batekoo.com/eventos/",
+ "final": "https://batekoo.com/eventos/",
+ "texto": "Agenda - BATEKOO \n Facebook \n Instagram \n Youtube \n Spotify \n Soundcloud \n Tiktok \n Twitter \n Linkedin \n Início \n Frentes \n Batekoo Produções \n Escola B \n Records \n Batecrew \n Festival \n Agenda \n Galerias \n Contato \n Menu \n Início \n Frentes \n Batekoo Produções \n Escola B \n Records \n Batecrew \n Festival \n Agenda \n Galerias \n Contato \n Search \n Close \n Facebook \n Instagram \n Youtube \n Spotify \n Soundcloud \n Tiktok \n Twitter \n Linkedin \n Início \n Frentes \n Batekoo Produções \n Escola B \n Records \n Batecrew \n Festival \n Agenda \n Galerias \n Contato \n Menu \n Início \n Frentes \n Batekoo Produções \n Escola B \n Records \n Batecrew \n Festival \n Agenda \n Galerias \n Contato \n Search \n Close \n AGENDA DE EVENTOS\n AGENDA DE EVENTOS\n Deletar filtros \n SELECIONE ABAIXO\n Distrito Federal \n Goiânia \n Fortaleza \n Minas Gerais \n Recife \n Rio de Janeiro \n Salvador \n São Paulo \n Envelope \n Facebook \n Instagram \n Youtube \n Spotify \n Soundcloud \n Tiktok \n Twitter \n Linkedin \n Envie uma mensagem\n Email \n Enviar \n Estamos em construção e logo você\npoderá fazer o download de fotos!\nFique atento às nossas redes sociais.\nAgradecemos a compreensão.",
+ "jsonld": [
+  "{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://batekoo.com/#website\",\"url\":\"https://batekoo.com/\",\"name\":\"BATEKOO\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":\"https://batekoo.com/?s={search_term_string}\",\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"pt-BR\"},{\"@type\":\"WebPage\",\"@id\":\"https://batekoo.com/eventos/#webpage\",\"url\":\"https://batekoo.com/eventos/\",\"name\":\"Agenda - BATEKOO\",\"isPartOf\":{\"@id\":\"https://batekoo.com/#website\"},\"datePublished\":\"2022-07-13T19:31:37+00:00\",\"dateModified\":\"2024-04-15T15:51:57+00:00\",\"inLanguage\":\"pt-BR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://batekoo.com/eventos/\"]}]}]}"
+ ],
+ "links": [
+  {
+   "href": "https://www.facebook.com/batekoobr/",
+   "txt": "Facebook"
+  },
+  {
+   "href": "https://www.instagram.com/batekoo/",
+   "txt": "Instagram"
+  },
+  {
+   "href": "https://www.youtube.com/@BATEKOO",
+   "txt": "Youtube"
+  },
+  {
+   "href": "https://open.spotify.com/intl-pt/artist/59HfwvJUsywrWQZNGnoY9B?si=EuHlkRC0R2KBBYAVSDXtyQ",
+   "txt": "Spotify"
+  },
+  {
+   "href": "https://soundcloud.com/batekoo",
+   "txt": "Soundcloud"
+  },
+  {
+   "href": "https://www.tiktok.com/@batekoo",
+   "txt": "Tiktok"
+  },
+  {
+   "href": "https://twitter.com/batekoo",
+   "txt": "Twitter"
+  },
+  {
+   "href": "https://www.linkedin.com/company/batekoo/",
+   "txt": "Linkedin"
+  },
+  {
+   "href": "https://batekoo.com/",
+   "txt": "Início"
+  },
+  {
+   "href": "https://batekoo.com/batekoo-producoes/",
+   "txt": "Batekoo Produções"
+  },
+  {
+   "href": "https://batekoo.com/escolab/",
+   "txt": "Escola B"
+  },
+  {
+   "href": "https://batekoo.com/batekoo-records/",
+   "txt": "Records"
+  },
+  {
+   "href": "https://batekoo.com/batecrew/",
+   "txt": "Batecrew"
+  },
+  {
+   "href": "https://batekoo.com/batekoo-festival/",
+   "txt": "Festival"
+  },
+  {
+   "href": "https://batekoo.com/eventos/",
+   "txt": "Agenda"
+  },
+  {
+   "href": "https://batekoo.com/galerias/",
+   "txt": "Galerias"
+  },
+  {
+   "href": "https://batekoo.com/",
+   "txt": "Início"
+  },
+  {
+   "href": "https://batekoo.com/batekoo-producoes/",
+   "txt": "Batekoo Produções"
+  },
+  {
+   "href": "https://batekoo.com/escolab/",
+   "txt": "Escola B"
+  },
+  {
+   "href": "https://batekoo.com/batekoo-records/",
+   "txt": "Records"
+  },
+  {
+   "href": "https://batekoo.com/batecrew/",
+   "txt": "Batecrew"
+  },
+  {
+   "href": "https://batekoo.com/batekoo-festival/",
+   "txt": "Festival"
+  },
+  {
+   "href": "https://batekoo.com/eventos/",
+   "txt": "Agenda"
+  },
+  {
+   "href": "https://batekoo.com/galerias/",
+   "txt": "Galerias"
+  },
+  {
+   "href": "https://www.facebook.com/batekoobr/",
+   "txt": "Facebook"
+  },
+  {
+   "href": "https://www.instagram.com/batekoo/",
+   "txt": "Instagram"
+  },
+  {
+   "href": "https://www.youtube.com/@BATEKOO",
+   "txt": "Youtube"
+  },
+  {
+   "href": "https://soundcloud.com/batekoo",
+   "txt": "Spotify"
+  },
+  {
+   "href": "https://soundcloud.com/batekoo",
+   "txt": "Soundcloud"
+  },
+  {
+   "href": "https://www.tiktok.com/@batekoo",
+   "txt": "Tiktok"
+  },
+  {
+   "href": "https://twitter.com/batekoo",
+   "txt": "Twitter"
+  },
+  {
+   "href": "https://www.linkedin.com/company/batekoo/",
+   "txt": "Linkedin"
+  },
+  {
+   "href": "https://batekoo.com/",
+   "txt": "Início"
+  },
+  {
+   "href": "https://batekoo.com/batekoo-producoes/",
+   "txt": "Batekoo Produções"
+  },
+  {
+   "href": "https://batekoo.com/escolab/",
+   "txt": "Escola B"
+  },
+  {
+   "href": "https://batekoo.com/batekoo-records/",
+   "txt": "Records"
+  },
+  {
+   "href": "https://batekoo.com/batecrew/",
+   "txt": "Batecrew"
+  },
+  {
+   "href": "https://batekoo.com/batekoo-festival/",
+   "txt": "Festival"
+  },
+  {
+   "href": "https://batekoo.com/eventos/",
+   "txt": "Agenda"
+  },
+  {
+   "href": "https://batekoo.com/galerias/",
+   "txt": "Galerias"
+  },
+  {
+   "href": "https://batekoo.com/",
+   "txt": "Início"
+  },
+  {
+   "href": "https://batekoo.com/batekoo-producoes/",
+   "txt": "Batekoo Produções"
+  },
+  {
+   "href": "https://batekoo.com/escolab/",
+   "txt": "Escola B"
+  },
+  {
+   "href": "https://batekoo.com/batekoo-records/",
+   "txt": "Records"
+  },
+  {
+   "href": "https://batekoo.com/batecrew/",
+   "txt": "Batecrew"
+  },
+  {
+   "href": "https://batekoo.com/batekoo-festival/",
+   "txt": "Festival"
+  },
+  {
+   "href": "https://batekoo.com/eventos/",
+   "txt": "Agenda"
+  },
+  {
+   "href": "https://batekoo.com/galerias/",
+   "txt": "Galerias"
+  },
+  {
+   "href": "mailto:contato@batekoo.com",
+   "txt": "Envelope"
+  },
+  {
+   "href": "https://www.facebook.com/batekoobr/",
+   "txt": "Facebook"
+  },
+  {
+   "href": "https://www.instagram.com/batekoo/",
+   "txt": "Instagram"
+  },
+  {
+   "href": "https://www.youtube.com/@BATEKOO",
+   "txt": "Youtube"
+  },
+  {
+   "href": "https://open.spotify.com/intl-pt/artist/59HfwvJUsywrWQZNGnoY9B?si=EuHlkRC0R2KBBYAVSDXtyQ",
+   "txt": "Spotify"
+  },
+  {
+   "href": "https://soundcloud.com/batekoo",
+   "txt": "Soundcloud"
+  },
+  {
+   "href": "https://www.tiktok.com/@batekoo",
+   "txt": "Tiktok"
+  },
+  {
+   "href": "https://twitter.com/batekoo",
+   "txt": "Twitter"
+  },
+  {
+   "href": "https://www.linkedin.com/company/batekoo/",
+   "txt": "Linkedin"
+  }
+ ],
+ "filhos": []
+}

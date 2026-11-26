@@ -1,0 +1,9 @@
+{
+ "id": "guicheweb",
+ "url": "https://www.guicheweb.com.br/",
+ "final": "https://www.guicheweb.com.br/",
+ "texto": "Guichê Web \n Fale conosco \n Preencha para iniciar o atendimento \n &times; \n Nome \n E-mail \n Telefone \n Assunto \n Seus dados serão utilizados exclusivamente para atendimento via WhatsApp.\n Iniciar conversa \n &times; \n --> &times; \n --> 0\"> {{ qtd_ev_cidades }} EVENTO 1\">S EM {{ cidade_escolhida }}\n 0\"> PRÓXIMO A VOCÊ\n Escolha um Evento\n NENHUM EVENTO ENCONTRADO\n --> \n 0 && loaded\" class=\"row mt-3 mb-3\"> CARREGAR MAIS EVENTOS",
+ "jsonld": [],
+ "links": [],
+ "filhos": []
+}

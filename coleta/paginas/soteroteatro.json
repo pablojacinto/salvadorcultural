@@ -1,0 +1,42 @@
+{
+ "id": "soteroteatro",
+ "url": "https://soteroteatro.com.br/",
+ "final": "https://soteroteatro.com.br/",
+ "texto": "Agenda Cultural de Salvador | SoteroTeatro \n Pular para o conteúdo Programação \n Agenda Cultural de Salvador: espetáculos em cartaz\n Próximas sessões \n Se For pra Ser, Vote em Mim! \n Cineteatro Solar Boa Vista 26 de nov., 19:00 18 anos \n A Trupe7.com convida você para assistir ao espetáculo “SE FOR PRA SER, VOTE EM MIM!”, uma comédia com muita sátira política, personagens caricatos e situações absurdas que revelam os bastidores do poder, as relações de interesse e as contradições da nossa sociedade.\n Ver detalhes \n Teatro em Salvador? Tem pra todo gosto!\n Idealização e Realização\n © 2026 SoteroTeatro Feito em Salvador",
+ "jsonld": [
+  "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"SoteroTeatro\",\"alternateName\":\"Sotero Teatro\",\"url\":\"https://soteroteatro.com.br\",\"description\":\"Descubra espetáculos, peças, dança, circo e performances em cartaz em Salvador e na Bahia. Programação cultural completa, ingressos e informações.\",\"image\":\"https://soteroteatro.com.br/og-image.png\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://soteroteatro.com.br/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}}"
+ ],
+ "links": [
+  {
+   "href": "https://soteroteatro.com.br/",
+   "txt": ""
+  },
+  {
+   "href": "https://soteroteatro.com.br/",
+   "txt": "Programação"
+  },
+  {
+   "href": "https://soteroteatro.com.br/evento/10d54dd0-1ab8-4134-95f9-06f2c0068f45",
+   "txt": "Ver detalhes"
+  },
+  {
+   "href": "https://soteroteatro.com.br/",
+   "txt": ""
+  },
+  {
+   "href": "https://www.instagram.com/soteroteatro",
+   "txt": ""
+  }
+ ],
+ "filhos": [
+  {
+   "url": "https://soteroteatro.com.br/evento/10d54dd0-1ab8-4134-95f9-06f2c0068f45",
+   "texto": "Se For pra Ser, Vote em Mim! | SoteroTeatro \n Pular para o conteúdo Programação \n Voltar \n 18 anos Teatro \n Se For pra Ser, Vote em Mim! \n 26 de novembro\n quinta-feira às 19:00\n Cineteatro Solar Boa Vista Largo de Boa Vista, 21 - Engenho Velho de Brotas - Salvador\n Comprar no Sympla (abre em nova aba) \n Compartilhar \n Sobre o espetáculo\n A Trupe7.com convida você para assistir ao espetáculo “SE FOR PRA SER, VOTE EM MIM!”, uma comédia com muita sátira política, personagens caricatos e situações absurdas que revelam os bastidores do poder, as relações de interesse e as contradições da nossa sociedade.\n Ficha Técnica\n Produção Carlota Morais e Yure Passos \n Direção Robson Raycar \n Elenco\n Ariele Pétala, CeL D’LuZ, Davi Mendes, Ed Santana, Fernando Alves, João Victor, Joy Pardo, Kalinka Campos, Ramon Veloso e Vivi Pirez\n Todas as datas\n qui., 19 de nov., 19:00 encerrado \n qui., 26 de nov., 19:00 \n qui., 3 de dez., 19:00 \n qui., 10 de dez., 19:00 \n Local\n Cineteatro Solar Boa Vista\n Largo de Boa Vista, 21 - Engenho Velho de Brotas\n Salvador , BA\n Ver no mapa (abre em nova aba) \n Ingressos\n 30\n Meia-entrada: 15\n Comprar no Sympla (abre em nova aba) \n Teatro em Salvador? Tem pra todo gosto!\n Idealização e Realização\n © 2026 SoteroTeatro Feito em Salvador",
+   "jsonld": [
+    "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"SoteroTeatro\",\"alternateName\":\"Sotero Teatro\",\"url\":\"https://soteroteatro.com.br\",\"description\":\"Descubra espetáculos, peças, dança, circo e performances em cartaz em Salvador e na Bahia. Programação cultural completa, ingressos e informações.\",\"image\":\"https://soteroteatro.com.br/og-image.png\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://soteroteatro.com.br/?q={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}}",
+    "{\"@context\":\"https://schema.org\",\"@type\":\"TheaterEvent\",\"name\":\"Se For pra Ser, Vote em Mim! \",\"description\":\"A Trupe7.com convida você para assistir ao espetáculo “SE FOR PRA SER, VOTE EM MIM!”, uma comédia com muita sátira política, personagens caricatos e situações absurdas que revelam os bastidores do poder, as relações de interesse e as contradições da nossa sociedade.\",\"startDate\":\"2026-11-26T22:00:00.000Z\",\"endDate\":\"2026-12-10T22:00:00.000Z\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"location\":{\"@type\":\"Place\",\"name\":\"Cineteatro Solar Boa Vista\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Largo de Boa Vista, 21 - Engenho Velho de Brotas\",\"addressLocality\":\"Salvador\",\"addressRegion\":\"BA\",\"addressCountry\":\"BR\"}},\"image\":\"https://cjqrpmkbxcaxebsazlvb.supabase.co/storage/v1/object/public/event-image/1795105469332.jpeg\",\"url\":\"https://soteroteatro.com.br/evento/10d54dd0-1ab8-4134-95f9-06f2c0068f45\",\"inLanguage\":\"pt-BR\",\"typicalAgeRange\":\"18 anos\",\"performer\":[{\"@type\":\"Person\",\"name\":\"Ariele Pétala\"},{\"@type\":\"Person\",\"name\":\"CeL D’LuZ\"},{\"@type\":\"Person\",\"name\":\"Davi Mendes\"},{\"@type\":\"Person\",\"name\":\"Ed Santana\"},{\"@type\":\"Person\",\"name\":\"Fernando Alves\"},{\"@type\":\"Person\",\"name\":\"João Victor\"},{\"@type\":\"Person\",\"name\":\"Joy Pardo\"},{\"@type\":\"Person\",\"name\":\"Kalinka Campos\"},{\"@type\":\"Person\",\"name\":\"Ramon Veloso e Vivi Pirez\"}],\"organizer\":{\"@type\":\"Organization\",\"name\":\"Carlota Morais e Yure Passos\",\"url\":\"https://soteroteatro.com.br/evento/10d54dd0-1ab8-4134-95f9-06f2c0068f45\"},\"offers\":{\"@type\":\"Offer\",\"url\":\"https://www.sympla.com.br/evento/se-for-pra-ser-vote-em-mim/3635940\",\"price\":30,\"priceCurrency\":\"BRL\",\"availability\":\"https://schema.org/InStock\",\"validFrom\":\"2026-11-26T18:33:24.961Z\"}}",
+    "{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Início\",\"item\":\"https://soteroteatro.com.br\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Cineteatro Solar Boa Vista\",\"item\":\"https://soteroteatro.com.br/teatro/cineteatro-solar-boa-vista\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Se For pra Ser, Vote em Mim! \",\"item\":\"https://soteroteatro.com.br/evento/10d54dd0-1ab8-4134-95f9-06f2c0068f45\"}]}"
+   ]
+  }
+ ]
+}

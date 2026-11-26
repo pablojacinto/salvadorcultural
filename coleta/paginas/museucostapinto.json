@@ -1,0 +1,46 @@
+{
+ "id": "museucostapinto",
+ "url": "https://www.museucostapinto.com.br/",
+ "final": "https://www.museucostapinto.com.br/",
+ "texto": "museucostapinto.com.br &mdash; Domain welcome page for \n Domain welcome page for \n museucostapinto.com.br \n Website Enabled \n This page indicates a newly created website is working. This welcome page is automatically generated after a virtual server is setup by Virtualmin &mdash; a premier open-source hosting control panel, offering automation and comprehensive management for webhosting environments. \n Login \n ⎆\n If you are the website owner, this welcome page appears because no website has been set up on this virtual server yet. To modify this page and upload your website, log in to Virtualmin and place your files in the public_html directory. \n Login to Virtualmin \n image/svg+xml \n &copy; 2005–2026 \n Resources \n Documentation \n Download \n Forum \n Support \n Shop \n About \n Company \n Contact \n This page is not delivered by Virtualmin. For questions about your account or a disabled site, please contact your hosting provider instead.",
+ "jsonld": [],
+ "links": [
+  {
+   "href": "https://www.virtualmin.com/docs/server-components/website-default-page/",
+   "txt": "Domain welcome page for"
+  },
+  {
+   "href": "https://sp-mb-vm-l-hosting-12.telium.net.br:10000/",
+   "txt": "Login to Virtualmin"
+  },
+  {
+   "href": "https://www.virtualmin.com/docs/",
+   "txt": "Documentation"
+  },
+  {
+   "href": "https://www.virtualmin.com/download/",
+   "txt": "Download"
+  },
+  {
+   "href": "https://forum.virtualmin.com/",
+   "txt": "Forum"
+  },
+  {
+   "href": "https://www.virtualmin.com/support/",
+   "txt": "Support"
+  },
+  {
+   "href": "https://www.virtualmin.com/shop/",
+   "txt": "Shop"
+  },
+  {
+   "href": "https://www.virtualmin.com/about/",
+   "txt": "Company"
+  },
+  {
+   "href": "https://www.virtualmin.com/contact/",
+   "txt": "Contact \n This page is not delivered by Virtualmin. For questions about your account or a disabled site, please contact your hosting provide"
+  }
+ ],
+ "filhos": []
+}

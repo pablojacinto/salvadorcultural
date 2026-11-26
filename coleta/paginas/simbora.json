@@ -1,0 +1,280 @@
+{
+ "id": "simbora",
+ "url": "https://simbora.net/",
+ "final": "https://simbora.net/",
+ "texto": "Simbora - descubra eventos, shows e festivais na sua cidade. eventos artistas locais sua agenda \n buscar por artista, gênero, local... \n São Paulo entrar/cadastrar \n Nunca perca um show\ndo seu artista favorito \n 441 shows confirmados nos próximos dias em São Paulo . \n Descubra com a gente e simbora.\n mpb samba pop pagode rock sertanejo \n Rashid - Cumulonimbus\n Quinta, 26 de Novembro - SESC Marília, Marília\n Ferrugem e Turma do Pagode no Terra SP\n Sexta, 27 de Novembro - Terra SP, São Paulo\n Ed Sheeran Loop Tour 2026\n Sábado, 5 de Dezembro - Nubank Parque, São Paulo\n Primavera Sound 2026\n Sábado, 5 de Dezembro - Autódromo de Interlagos, São Paulo\n próximos eventos em São Paulo \n 26 NOV \n Of Monsters and Men em São Paulo\n Audio - São Paulo Of Monsters and Men Quinta, 26 de Novembro \n Of Monsters and Men em São Paulo\n Audio - São Paulo Of Monsters and Men \n 26 NOV \n Tássia Reis - Série Petrobras\n Cultura Artística - São Paulo Tassia Reis Quinta, 26 de Novembro \n Tássia Reis - Série Petrobras\n Cultura Artística - São Paulo Tassia Reis \n 26 NOV \n Maiara & Maraisa\n Villa Country - São Paulo Maiara & Maraisa Quinta, 26 de Novembro \n Maiara & Maraisa\n Villa Country - São Paulo Maiara & Maraisa \n 26 NOV \n Crua: Jaloo Acústica\n Blue Note São Paulo - São Paulo Jaloo Quinta, 26 de Novembro \n Crua: Jaloo Acústica\n Blue Note São Paulo - São Paulo Jaloo \n 26 NOV \n Bruno & Marrone na Fazenda Churrascada Morumbi\n Fazenda Churrascada - São Paulo Bruno & Marrone Quinta, 26 de Novembro \n Bruno & Marrone na Fazenda Churrascada Morumbi\n Fazenda Churrascada - São Paulo Bruno & Marrone \n 26 NOV \n Tricky\n Cine Joia - São Paulo Tricky Quinta, 26 de Novembro \n Tricky\n Cine Joia - São Paulo Tricky \n 26 NOV \n Rashid - Cumulonimbus\n SESC Marília - Marília Rashid Quinta, 26 de Novembro \n Rashid - Cumulonimbus\n SESC Marília - Marília Rashid \n 27 NOV \n A Perfect Circle\n Suhai Music Hall - São Paulo A Perfect Circle Sexta, 27 de Novembro \n A Perfect Circle\n Suhai Music Hall - São Paulo A Perfect Circle \n 27 NOV \n Falamansa Show de Despedida da Turnê Universos\n Audio - São Paulo Falamansa Sexta, 27 de Novembro \n Falamansa Show de Despedida da Turnê Universos\n Audio - São Paulo Falamansa \n ver todos os eventos \n locais mais populares\n Espaço Unimed São Paulo · 20 shows Nubank Parque São Paulo · 19 shows Audio São Paulo · 14 shows Cine Joia São Paulo · 13 shows Blue Note São Paulo São Paulo · 11 shows \n todos os locais \n locais mais populares\n Espaço Unimed São Paulo · 20 shows Nubank Parque São Paulo · 19 shows Audio São Paulo · 14 shows Cine Joia São Paulo · 13 shows Blue Note São Paulo São Paulo · 11 shows \n todos os locais \n artistas em destaque \n Belo\n Sorriso Maroto\n Criolo\n Grupo Menos É Mais\n Humberto & Ronaldo\n ver todos os artistas \n para produtores, artistas e bandas\n a melhor forma de divulgar sua agenda de shows \n Painel Administrativo\n Link Personalizado\n Página com todas as informações\n Responsivo e moderno\n saiba mais totalmente grátis \n gêneros musicais populares \n mpb samba pop pagode rock sertanejo rap forro trap \n eventos artistas locais entrar menu eventos artistas locais favoritos \n sobre sobre o simbora \n termos e políticas termos de uso política de privacidade denunciar conteúdo \n Simbora ® 2026 — Todos os direitos reservados",
+ "jsonld": [
+  "{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"Simbora\",\"url\":\"https://simbora.net\"}"
+ ],
+ "links": [
+  {
+   "href": "https://simbora.net/",
+   "txt": ""
+  },
+  {
+   "href": "https://simbora.net/eventos",
+   "txt": "eventos"
+  },
+  {
+   "href": "https://simbora.net/artistas",
+   "txt": "artistas"
+  },
+  {
+   "href": "https://simbora.net/locais",
+   "txt": "locais"
+  },
+  {
+   "href": "https://simbora.net/agenda",
+   "txt": "sua agenda"
+  },
+  {
+   "href": "https://simbora.net/entrar",
+   "txt": "entrar/cadastrar"
+  },
+  {
+   "href": "https://simbora.net/eventos?q=mpb",
+   "txt": "mpb"
+  },
+  {
+   "href": "https://simbora.net/eventos?q=samba",
+   "txt": "samba"
+  },
+  {
+   "href": "https://simbora.net/eventos?q=pop",
+   "txt": "pop"
+  },
+  {
+   "href": "https://simbora.net/eventos?q=pagode",
+   "txt": "pagode"
+  },
+  {
+   "href": "https://simbora.net/eventos?q=rock",
+   "txt": "rock"
+  },
+  {
+   "href": "https://simbora.net/eventos?q=sertanejo",
+   "txt": "sertanejo"
+  },
+  {
+   "href": "https://simbora.net/eventos/4488/rashid-cumulonimbus",
+   "txt": "Rashid - Cumulonimbus\n Quinta, 26 de Novembro - SESC Marília, Marília"
+  },
+  {
+   "href": "https://simbora.net/eventos/4381/ferrugem-e-turma-do-pagode-no-terra-sp",
+   "txt": "Ferrugem e Turma do Pagode no Terra SP\n Sexta, 27 de Novembro - Terra SP, São Paulo"
+  },
+  {
+   "href": "https://simbora.net/eventos/306/ed-sheeran-loop-tour-2026",
+   "txt": "Ed Sheeran Loop Tour 2026\n Sábado, 5 de Dezembro - Nubank Parque, São Paulo"
+  },
+  {
+   "href": "https://simbora.net/eventos/333/primavera-sound-2026",
+   "txt": "Primavera Sound 2026\n Sábado, 5 de Dezembro - Autódromo de Interlagos, São Paulo"
+  },
+  {
+   "href": "https://simbora.net/eventos/688/of-monsters-and-men-em-sao-paulo",
+   "txt": "26 NOV \n Of Monsters and Men em São Paulo\n Audio - São Paulo Of Monsters and Men Quinta, 26 de Novembro \n Of Monsters and Men em São Paulo\n "
+  },
+  {
+   "href": "https://simbora.net/eventos/1121/tassia-reis-serie-petrobras",
+   "txt": "26 NOV \n Tássia Reis - Série Petrobras\n Cultura Artística - São Paulo Tassia Reis Quinta, 26 de Novembro \n Tássia Reis - Série Petrobras\n Cu"
+  },
+  {
+   "href": "https://simbora.net/eventos/1561/maiara-maraisa",
+   "txt": "26 NOV \n Maiara & Maraisa\n Villa Country - São Paulo Maiara & Maraisa Quinta, 26 de Novembro \n Maiara & Maraisa\n Villa Country - São Paulo M"
+  },
+  {
+   "href": "https://simbora.net/eventos/2634/crua-jaloo-acustica",
+   "txt": "26 NOV \n Crua: Jaloo Acústica\n Blue Note São Paulo - São Paulo Jaloo Quinta, 26 de Novembro \n Crua: Jaloo Acústica\n Blue Note São Paulo - Sã"
+  },
+  {
+   "href": "https://simbora.net/eventos/2934/bruno-marrone-na-fazenda-churrascada-morumbi",
+   "txt": "26 NOV \n Bruno & Marrone na Fazenda Churrascada Morumbi\n Fazenda Churrascada - São Paulo Bruno & Marrone Quinta, 26 de Novembro \n Bruno & Ma"
+  },
+  {
+   "href": "https://simbora.net/eventos/3479/tricky",
+   "txt": "26 NOV \n Tricky\n Cine Joia - São Paulo Tricky Quinta, 26 de Novembro \n Tricky\n Cine Joia - São Paulo Tricky"
+  },
+  {
+   "href": "https://simbora.net/eventos/4488/rashid-cumulonimbus",
+   "txt": "26 NOV \n Rashid - Cumulonimbus\n SESC Marília - Marília Rashid Quinta, 26 de Novembro \n Rashid - Cumulonimbus\n SESC Marília - Marília Rashid"
+  },
+  {
+   "href": "https://simbora.net/eventos/1093/a-perfect-circle",
+   "txt": "27 NOV \n A Perfect Circle\n Suhai Music Hall - São Paulo A Perfect Circle Sexta, 27 de Novembro \n A Perfect Circle\n Suhai Music Hall - São Pa"
+  },
+  {
+   "href": "https://simbora.net/eventos/2090/falamansa-show-de-despedida-da-turne-universos",
+   "txt": "27 NOV \n Falamansa Show de Despedida da Turnê Universos\n Audio - São Paulo Falamansa Sexta, 27 de Novembro \n Falamansa Show de Despedida da "
+  },
+  {
+   "href": "https://simbora.net/eventos",
+   "txt": "ver todos os eventos"
+  },
+  {
+   "href": "https://simbora.net/locais/7/espaco-unimed",
+   "txt": "Espaço Unimed São Paulo · 20 shows"
+  },
+  {
+   "href": "https://simbora.net/locais/6/nubank-parque",
+   "txt": "Nubank Parque São Paulo · 19 shows"
+  },
+  {
+   "href": "https://simbora.net/locais/11/audio",
+   "txt": "Audio São Paulo · 14 shows"
+  },
+  {
+   "href": "https://simbora.net/locais/15/cine-joia",
+   "txt": "Cine Joia São Paulo · 13 shows"
+  },
+  {
+   "href": "https://simbora.net/locais/125/blue-note-sao-paulo",
+   "txt": "Blue Note São Paulo São Paulo · 11 shows"
+  },
+  {
+   "href": "https://simbora.net/locais",
+   "txt": "todos os locais"
+  },
+  {
+   "href": "https://simbora.net/locais/7/espaco-unimed",
+   "txt": "Espaço Unimed São Paulo · 20 shows"
+  },
+  {
+   "href": "https://simbora.net/locais/6/nubank-parque",
+   "txt": "Nubank Parque São Paulo · 19 shows"
+  },
+  {
+   "href": "https://simbora.net/locais/11/audio",
+   "txt": "Audio São Paulo · 14 shows"
+  },
+  {
+   "href": "https://simbora.net/locais/15/cine-joia",
+   "txt": "Cine Joia São Paulo · 13 shows"
+  },
+  {
+   "href": "https://simbora.net/locais/125/blue-note-sao-paulo",
+   "txt": "Blue Note São Paulo São Paulo · 11 shows"
+  },
+  {
+   "href": "https://simbora.net/locais",
+   "txt": "todos os locais"
+  },
+  {
+   "href": "https://simbora.net/artistas/4166/belo",
+   "txt": "Belo"
+  },
+  {
+   "href": "https://simbora.net/artistas/26/sorriso-maroto",
+   "txt": "Sorriso Maroto"
+  },
+  {
+   "href": "https://simbora.net/artistas/243/criolo",
+   "txt": "Criolo"
+  },
+  {
+   "href": "https://simbora.net/artistas/3214/grupo-menos-e-mais",
+   "txt": "Grupo Menos É Mais"
+  },
+  {
+   "href": "https://simbora.net/artistas/3316/humberto-ronaldo",
+   "txt": "Humberto & Ronaldo"
+  },
+  {
+   "href": "https://simbora.net/artistas",
+   "txt": "ver todos os artistas"
+  },
+  {
+   "href": "https://simbora.net/agenda",
+   "txt": "saiba mais"
+  },
+  {
+   "href": "https://simbora.net/agenda",
+   "txt": "totalmente grátis"
+  },
+  {
+   "href": "https://simbora.net/eventos?q=mpb",
+   "txt": "mpb"
+  },
+  {
+   "href": "https://simbora.net/eventos?q=samba",
+   "txt": "samba"
+  },
+  {
+   "href": "https://simbora.net/eventos?q=pop",
+   "txt": "pop"
+  },
+  {
+   "href": "https://simbora.net/eventos?q=pagode",
+   "txt": "pagode"
+  },
+  {
+   "href": "https://simbora.net/eventos?q=rock",
+   "txt": "rock"
+  },
+  {
+   "href": "https://simbora.net/eventos?q=sertanejo",
+   "txt": "sertanejo"
+  },
+  {
+   "href": "https://simbora.net/eventos?q=rap",
+   "txt": "rap"
+  },
+  {
+   "href": "https://simbora.net/eventos?q=forro",
+   "txt": "forro"
+  },
+  {
+   "href": "https://simbora.net/eventos?q=trap",
+   "txt": "trap"
+  },
+  {
+   "href": "https://simbora.net/eventos",
+   "txt": "eventos"
+  },
+  {
+   "href": "https://simbora.net/artistas",
+   "txt": "artistas"
+  },
+  {
+   "href": "https://simbora.net/locais",
+   "txt": "locais"
+  },
+  {
+   "href": "https://simbora.net/entrar",
+   "txt": "entrar"
+  },
+  {
+   "href": "https://simbora.net/eventos",
+   "txt": "eventos"
+  },
+  {
+   "href": "https://simbora.net/artistas",
+   "txt": "artistas"
+  },
+  {
+   "href": "https://simbora.net/locais",
+   "txt": "locais"
+  },
+  {
+   "href": "https://simbora.net/favoritos",
+   "txt": "favoritos"
+  },
+  {
+   "href": "https://simbora.net/sobre",
+   "txt": "sobre o simbora"
+  },
+  {
+   "href": "https://simbora.net/termos",
+   "txt": "termos de uso"
+  },
+  {
+   "href": "https://simbora.net/privacidade",
+   "txt": "política de privacidade"
+  },
+  {
+   "href": "https://simbora.net/denunciar",
+   "txt": "denunciar conteúdo"
+  }
+ ],
+ "filhos": []
+}

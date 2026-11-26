@@ -1,0 +1,396 @@
+{
+ "id": "pms-danca",
+ "url": "https://www.salvadordabahia.com/categoria-agenda/danca/",
+ "final": "https://www.salvadordabahia.com/categoria-agenda/danca/",
+ "texto": "Arquivo de Dança - Salvador da Bahia \n Salvador  \n Salvador  \n Por que Salvador  ? \n Uma pitada de história \n Infraestrutura e serviços \n Como chegar \n Salvador Hoje \n Salvador em números \n Informações úteis \n Downloads \n Conheça \n Conheça \n Todos os Lugares \n Afroturismo \n Religiosidade \n Nômades Digitais \n Sol e Mar \n Gastronomia \n Música \n História e Cultura \n Esportes \n Agenda \n Roteiros \n Nossas Listas \n Blog \n pt \r\n Menu \r\n Salvador  \n Salvador  \n Por que Salvador  ? \n Uma pitada de história \n Infraestrutura e serviços \n Como chegar \n Salvador Hoje \n Salvador em números \n Informações úteis \n Downloads \n Conheça \n Conheça \n Todos os Lugares \n Afroturismo \n Religiosidade \n Nômades Digitais \n Sol e Mar \n Gastronomia \n Música \n História e Cultura \n Esportes \n Agenda \n Roteiros \n Nossas Listas \n Blog \n Pesquisar \r\n Sugestões: \r\n Em Salvador hoje \r\n Em Salvador amanhã \r\n Em Salvador neste fim de semana \r\n Em Salvador na próxima semana \r\n Em Salvador neste mês \r\n Categorias \r\n Todos \r\n Cinema \r\n Dança \r\n Evento Esportivo \r\n Evento Gastronômico \r\n Evento Infantil \r\n Exposições \r\n Gratuitos \r\n Palestras e workshops \r\n Shows e Festas \r\n Teatro \r\n Início \r\n Agenda \r\n Dança \r\n Dança\n Categorias \r\n Todos \r\n Dança \r\n Evento Esportivo \r\n Evento Gastronômico \r\n Evento Infantil \r\n Exposições \r\n Gratuitos \r\n Palestras e workshops \r\n Shows e Festas \r\n Teatro \r\n Todos \r\n Selecionar data \r\n Sex \r\n 27 de Nov \n Bando de Teatro Olodum em Oficina de Performance Negra 2026 \r\n Endereços Variados - Consulte \n Inscrição gratuita \r\n Carregar mais \r\n Salvador \n Conheça \n Agenda \n Roteiros \n Nossas Listas \n Blog \n Termos de Uso \n Política de Privacidade e Cookies \n Cadastrar\n Não tem uma conta? Inscreva-se agora.\n Continuar com Facebook \n Compartilhar\n https://www.salvadordabahia.com/eventos/aula-de-danca-afro-com-matheus-ambrozi/\n Copiar link \r\n Link copiado! \r\n Cookie Consent\n Usamos cookies para melhorar sua experiência em nosso site. Ao utilizar nosso site, você concorda com o uso de cookies .\n Preferências Recusar Aceitar Todos \n Preferências de Cookies\n &times; \n Gerencie suas preferências de cookies abaixo:\n Toggle Essenciais Essenciais \n Cookies essenciais permitem funções básicas e são necessários para o funcionamento adequado do site.\n Nome\n Descrição\n Duração\n Cookie Preferences\n This cookie is used to store the user's cookie consent preferences.\n 30 days\n Toggle Google Tag Manager Google Tag Manager \n Google Tag Manager simplifies the management of marketing tags on your website without code changes.\n Nome\n Descrição\n Duração\n cookiePreferences\n Registers cookie preferences of a user\n 2 years\n td\n Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.\n session\n Toggle Login Login \n These cookies are used for managing login functionality on this website.\n Nome\n Descrição\n Duração\n wordpress_logged_in\n Used to store logged-in users.\n Persistent\n wordpress_sec\n Used to track the user across multiple sessions.\n 15 days\n wordpress_test_cookie\n Used to determine if cookies are enabled.\n Session\n Toggle Estatísticas Estatísticas \n Cookies de estatísticas coletam informações de forma anônima. Essas informações nos ajudam a entender como os visitantes utilizam nosso site.\n Toggle Google Analytics Google Analytics \n Google Analytics is a powerful tool that tracks and analyzes website traffic for informed marketing decisions.\n Service URL: policies.google.com (opens in a new window) \n Nome\n Descrição\n Duração\n _gat\n Used to monitor number of Google Analytics server requests when using Google Tag Manager\n 1 minute\n __utmt\n Used to monitor number of Google Analytics server requests\n 10 minutes\n __utmb\n Used to distinguish new sessions and visits. This cookie is set when the GA.js javascript library is loaded and there is no existing __utmb cookie. The cookie is updated every time data is sent to the Google Analytics server.\n 30 minutes after last activity\n __utmc\n Used only with old Urchin versions of Google Analytics and not with GA.js. Was used to distinguish between new sessions and visits at the end of a session.\n End of session (browser)\n __utmz\n Contains information about the traffic source or campaign that directed user to the website. The cookie is set when the GA.js javascript is loaded and updated when data is sent to the Google Anaytics server\n 6 months after last activity\n __utmv\n Contains custom information set by the web developer via the _setCustomVar method in Google Analytics. This cookie is updated every time new data is sent to the Google Analytics server.\n 2 years after last activity\n __utmx\n Used to determine whether a user is included in an A / B or Multivariate test.\n 18 months\n _ga\n ID used to identify users\n 2 years\n _gali\n Used by Google Analytics to determine which links on a page are being clicked\n 30 seconds\n _ga_\n ID used to identify users\n 2 years\n _gid\n ID used to identify users for 24 hours after last activity\n 24 hours\n __utma\n ID used to identify users and sessions\n 2 years after last activity\n _gac_\n Contains information related to marketing campaigns of the user. These are shared with Google AdWords / Google Ads when the Google Ads and Google Analytics accounts are linked together.\n 90 days\n Toggle Política de Cookies Política de Cookies \n Você pode encontrar mais informações em nossa Política de Privacidade e Cookies e Política de Privacidade e Cookies .\n Aceitar Todos Fechar \n Salvar e Fechar",
+ "jsonld": [
+  "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"CollectionPage\",\"@id\":\"https:\\/\\/www.salvadordabahia.com\\/categoria-agenda\\/danca\\/\",\"url\":\"https:\\/\\/www.salvadordabahia.com\\/categoria-agenda\\/danca\\/\",\"name\":\"Arquivo de Dança - Salvador da Bahia\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.salvadordabahia.com\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.salvadordabahia.com\\/categoria-agenda\\/danca\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.salvadordabahia.com\\/categoria-agenda\\/danca\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.salvadordabahia.com\\/wp-content\\/uploads\\/2026\\/10\\/aula-danca-afro.png\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.salvadordabahia.com\\/categoria-agenda\\/danca\\/#breadcrumb\"},\"inLanguage\":\"pt-BR\"},{\"@type\":\"ImageObject\",\"inLanguage\":\"pt-BR\",\"@id\":\"https:\\/\\/www.salvadordabahia.com\\/categoria-agenda\\/danca\\/#primaryimage\",\"url\":\"https:\\/\\/www.salvadordabahia.com\\/wp-content\\/uploads\\/2026\\/10\\/aula-danca-afro.png\",\"contentUrl\":\"https:\\/\\/www.salvadordabahia.com\\/wp-content\\/uploads\\/2026\\/10\\/aula-danca-afro.png\",\"width\":470,\"height\":265},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.salvadordabahia.com\\/categoria-agenda\\/danca\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Início\",\"item\":\"https:\\/\\/www.salvadordabahia.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Dança\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.salvadordabahia.com\\/#website\",\"url\":\"https:\\/\\/www.salvadordabahia.com\\/\",\"name\":\"Salvador da Bahia\",\"description\":\"Salvador tem tudo para você curtir do seu jeito: festas, praias, roteiros incríveis e alegria em cada canto da cidade.\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.salvadordabahia.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"pt-BR\"}]}"
+ ],
+ "links": [
+  {
+   "href": "https://www.salvadordabahia.com/",
+   "txt": ""
+  },
+  {
+   "href": "https://www.salvadordabahia.com/por-que-salvador/",
+   "txt": "Por que Salvador  ?"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/uma-pitada-de-historia/",
+   "txt": "Uma pitada de história"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/infraestrutura-e-servicos/",
+   "txt": "Infraestrutura e serviços"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/como-chegar/",
+   "txt": "Como chegar"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/salvador-hoje/",
+   "txt": "Salvador Hoje"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/salvador-em-numeros/",
+   "txt": "Salvador em números"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/informacoes-uteis/",
+   "txt": "Informações úteis"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/download/",
+   "txt": "Downloads"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/experiencias/",
+   "txt": "Todos os Lugares"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-experiencias/turismo-etnico-afro/",
+   "txt": "Afroturismo"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-experiencias/turismo-de-fe/",
+   "txt": "Religiosidade"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-experiencias/nomades-digitais/",
+   "txt": "Nômades Digitais"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-experiencias/mar/",
+   "txt": "Sol e Mar"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-experiencias/gastronomia/",
+   "txt": "Gastronomia"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-experiencias/cidade-da-musica/",
+   "txt": "Música"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-experiencias/cultural/",
+   "txt": "História e Cultura"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-experiencias/esporte-nautico/",
+   "txt": "Esportes"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/agenda/",
+   "txt": "Agenda"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/roteiros/",
+   "txt": "Roteiros"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/nossas-listas/",
+   "txt": "Nossas Listas"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/artigos-e-noticias/",
+   "txt": "Blog"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/por-que-salvador/",
+   "txt": "Por que Salvador  ?"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/uma-pitada-de-historia/",
+   "txt": "Uma pitada de história"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/infraestrutura-e-servicos/",
+   "txt": "Infraestrutura e serviços"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/como-chegar/",
+   "txt": "Como chegar"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/salvador-hoje/",
+   "txt": "Salvador Hoje"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/salvador-em-numeros/",
+   "txt": "Salvador em números"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/informacoes-uteis/",
+   "txt": "Informações úteis"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/download/",
+   "txt": "Downloads"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/experiencias/",
+   "txt": "Todos os Lugares"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-experiencias/turismo-etnico-afro/",
+   "txt": "Afroturismo"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-experiencias/turismo-de-fe/",
+   "txt": "Religiosidade"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-experiencias/nomades-digitais/",
+   "txt": "Nômades Digitais"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-experiencias/mar/",
+   "txt": "Sol e Mar"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-experiencias/gastronomia/",
+   "txt": "Gastronomia"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-experiencias/cidade-da-musica/",
+   "txt": "Música"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-experiencias/cultural/",
+   "txt": "História e Cultura"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-experiencias/esporte-nautico/",
+   "txt": "Esportes"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/agenda/",
+   "txt": "Agenda"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/roteiros/",
+   "txt": "Roteiros"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/nossas-listas/",
+   "txt": "Nossas Listas"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/artigos-e-noticias/",
+   "txt": "Blog"
+  },
+  {
+   "href": "https://open.spotify.com/user/2f4xos4omexsoh33rnweg2j3w",
+   "txt": ""
+  },
+  {
+   "href": "https://www.instagram.com/visitsalvadordabahia/",
+   "txt": ""
+  },
+  {
+   "href": "https://www.facebook.com/visitsalvadordabahia/",
+   "txt": ""
+  },
+  {
+   "href": "https://twitter.com/VisitSalvador",
+   "txt": ""
+  },
+  {
+   "href": "https://www.youtube.com/visitsalvadordabahia",
+   "txt": ""
+  },
+  {
+   "href": "https://www.salvadordabahia.com/",
+   "txt": ""
+  },
+  {
+   "href": "https://www.salvadordabahia.com/favoritos",
+   "txt": ""
+  },
+  {
+   "href": "https://www.salvadordabahia.com/agenda",
+   "txt": "Todos"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/cinema/",
+   "txt": "Cinema"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/danca/",
+   "txt": "Dança"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/evento-esportivo/",
+   "txt": "Evento Esportivo"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/evento-gastronomico/",
+   "txt": "Evento Gastronômico"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/evento-infantil/",
+   "txt": "Evento Infantil"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/exposicoes/",
+   "txt": "Exposições"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/gratuitos/",
+   "txt": "Gratuitos"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/palestras-e-workshops/",
+   "txt": "Palestras e workshops"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/shows-e-festas/",
+   "txt": "Shows e Festas"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/teatro/",
+   "txt": "Teatro"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/",
+   "txt": "Início"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/agenda",
+   "txt": "Agenda"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/agenda",
+   "txt": "Todos"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/danca/",
+   "txt": "Dança"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/evento-esportivo/",
+   "txt": "Evento Esportivo"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/evento-gastronomico/",
+   "txt": "Evento Gastronômico"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/evento-infantil/",
+   "txt": "Evento Infantil"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/exposicoes/",
+   "txt": "Exposições"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/gratuitos/",
+   "txt": "Gratuitos"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/palestras-e-workshops/",
+   "txt": "Palestras e workshops"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/shows-e-festas/",
+   "txt": "Shows e Festas"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/categoria-agenda/teatro/",
+   "txt": "Teatro"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/eventos/bando-de-teatro-olodum-em-oficina-de-performance-negra-2026/",
+   "txt": ""
+  },
+  {
+   "href": "https://www.salvadordabahia.com/eventos/bando-de-teatro-olodum-em-oficina-de-performance-negra-2026/",
+   "txt": "Bando de Teatro Olodum em Oficina de Performance Negra 2026"
+  },
+  {
+   "href": "https://docs.google.com/forms/d/e/1FAIpQLSea0y2iI2Qg92gKvdvWlKu0l0OsYz_KuEO4WiLyia_NfGDEvQ/viewform",
+   "txt": "Inscrição gratuita"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/",
+   "txt": ""
+  },
+  {
+   "href": "https://open.spotify.com/user/2f4xos4omexsoh33rnweg2j3w",
+   "txt": ""
+  },
+  {
+   "href": "https://www.instagram.com/visitsalvadordabahia/",
+   "txt": ""
+  },
+  {
+   "href": "https://www.facebook.com/visitsalvadordabahia/",
+   "txt": ""
+  },
+  {
+   "href": "https://twitter.com/VisitSalvador",
+   "txt": ""
+  },
+  {
+   "href": "https://www.youtube.com/visitsalvadordabahia",
+   "txt": ""
+  },
+  {
+   "href": "https://www.salvadordabahia.com/por-que-salvador/",
+   "txt": "Salvador"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/experiencias/",
+   "txt": "Conheça"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/agenda/",
+   "txt": "Agenda"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/roteiros/",
+   "txt": "Roteiros"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/nossas-listas/",
+   "txt": "Nossas Listas"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/artigos-e-noticias/",
+   "txt": "Blog"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/wp-content/uploads/2019/02/termo-de-uso_salvadordabahia.pdf",
+   "txt": "Termos de Uso"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/politica-de-privacidade-e-cookies/",
+   "txt": "Política de Privacidade e Cookies"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/politica-de-privacidade-e-cookies/",
+   "txt": "uso de cookies"
+  },
+  {
+   "href": "https://policies.google.com/privacy",
+   "txt": "policies.google.com (opens in a new window)"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/politica-de-privacidade-e-cookies/",
+   "txt": "Política de Privacidade e Cookies"
+  },
+  {
+   "href": "https://www.salvadordabahia.com/politica-de-privacidade-e-cookies/",
+   "txt": "Política de Privacidade e Cookies"
+  }
+ ],
+ "filhos": [
+  {
+   "url": "https://www.salvadordabahia.com/eventos/bando-de-teatro-olodum-em-oficina-de-performance-negra-2026/",
+   "texto": "Bando de Teatro Olodum em Oficina de Performance Negra 2026 - Salvador da Bahia \n Salvador  \n Salvador  \n Por que Salvador  ? \n Uma pitada de história \n Infraestrutura e serviços \n Como chegar \n Salvador Hoje \n Salvador em números \n Informações úteis \n Downloads \n Conheça \n Conheça \n Todos os Lugares \n Afroturismo \n Religiosidade \n Nômades Digitais \n Sol e Mar \n Gastronomia \n Música \n História e Cultura \n Esportes \n Agenda \n Roteiros \n Nossas Listas \n Blog \n pt \r\n Menu \r\n Salvador  \n Salvador  \n Por que Salvador  ? \n Uma pitada de história \n Infraestrutura e serviços \n Como chegar \n Salvador Hoje \n Salvador em números \n Informações úteis \n Downloads \n Conheça \n Conheça \n Todos os Lugares \n Afroturismo \n Religiosidade \n Nômades Digitais \n Sol e Mar \n Gastronomia \n Música \n História e Cultura \n Esportes \n Agenda \n Roteiros \n Nossas Listas \n Blog \n Pesquisar \r\n Sugestões: \r\n Em Salvador hoje \r\n Em Salvador amanhã \r\n Em Salvador neste fim de semana \r\n Em Salvador na próxima semana \r\n Em Salvador neste mês \r\n Categorias \r\n Todos \r\n Cinema \r\n Dança \r\n Evento Esportivo \r\n Evento Gastronômico \r\n Evento Infantil \r\n Exposições \r\n Gratuitos \r\n Palestras e workshops \r\n Shows e Festas \r\n Teatro \r\n Bando de Teatro Olodum em Oficina de Performance Negra 2026\n Publicado em 20.07.2026 às 14h 51 - atualizado em 20.07.2026 às 14h 51\n Gratuitos \r\n Dança \r\n Compartilhar \r\n De 20 de julho a 8 de agosto, jovens e adultos negros podem se inscrever gratuitamente na Oficina de Performance Negra 2026, iniciativa de formação artística que reúne teatro, dança, música e estudos sobre memória e identidade.\n As atividades serão realizadas de 17 de agosto a 19 de dezembro, sempre às segundas, quartas e sextas-feiras, em três espaços culturais de Salvador: o Centro Cultural Plataforma, no Subúrbio Ferroviário; o Espaço Cultural Alagados, no Uruguai; e a Subsede da Cultura e Cidadania do Sindipetro Bahia, em Nazaré.\n Além das práticas artísticas, o projeto oferece capacitação em iluminação cênica e sonorização, ampliando as possibilidades de atuação profissional dos participantes. Podem participar pessoas a partir de 18 anos, mesmo sem experiência prévia em artes cênicas. \n Serviço \n Data: 17 de agosto a 19 de dezembro, das 18h3 às 19h30, com aulas às segundas, quartas e sextas-feiras\nLocal: Centro Cultural Plataforma, Subúrbio Ferroviário; Espaço Cultural Alagados, Uruguai; e Subsede da Cultura e Cidadania do Sindipetro Bahia, na Ladeira da Independência, Nazaré\nInscrições gratuitas neste link \n Ver essa foto no Instagram\n Um post compartilhado por Bando de Teatro Olodum (@bandodeteatroolodum) \n Saiba Mais \r\n Acontecendo perto de você\n Confira outros eventos que estão acontecendo próximo a sua localização:\n De 27 a 29 Nov \n O que tá rolando em Salvador: de 26 a 29 de novembro de 2026 \r\n Endereços Variados - Consulte \n Festival Salvador Capital Afro reúne programação cultural, debates e empreendedorismo \r\n Atividades distribuídas em diferentes pontos da cidade \n Gratuita\n De 29 Nov a 08 Dez \n Festa de Nossa Senhora da Conceição da Praia 2026 - confira programação \r\n Basílica Santuário de Nossa Senhora da Conceição da Praia (Comércio)\n Gratuita\n Sáb \r\n 23 de Jan \n Xande & Jau \r\n Porto Salvador (Comércio)\n Garanta seu ingresso \r\n Qua \r\n 06 de Jan \n Shakira - turnê Las Mujeres Ya No Lloran \r\n Arena Fonte Nova (Nazaré)\n Garanta seu ingresso \r\n Sáb \r\n 12 de Dez \n Nattan em Salvador \r\n WET Eventos (Avenida Luís Viana Filho)\n Garanta seu ingresso \r\n De 19 a 20 Dez \n Natal das Estrelas - OSBA recebe Ivete Sangalo e Zeca Baleiro \r\n Teatro Castro Alves (Praça Dois de Julho)\n Garanta seu ingresso \r\n Ter \r\n 08 de Dez \n Festinha Massa - Faustão, Lutte e mais \r\n Clube Espanhol (Ondina)\n Garanta seu ingresso \r\n Sáb \r\n 28 de Nov \n ÂMBAR Session - R&B e Afrobeat \r\n Casa da Nigéria (Pelourinho)\n Garanta seu ingresso \r\n De 12 a 13 Dez \n Festival de Forró de Salvador - Jairo Barboza, Roberta Leal e muito mais \r\n Largo da Mariquita (Rio Vermelho)\n Gratuita\n Dom \r\n 06 de Dez \n SambaDurras - Escandurras e convidados \r\n Pátio Ordem Terceira (Pelourinho)\n Garanta seu ingresso \r\n Sáb \r\n 05 de Dez \n Patrícia Gomes apresenta \"Som dos Tribais\" \r\n Restaurante D’Madda (Candeal)\n Garanta seu ingresso \r\n Salvador \n Conheça \n Agenda \n Roteiros \n Nossas Listas \n Blog \n Termos de Uso \n Política de Privacidade e Cookies \n Cadastrar\n Não tem uma conta? Inscreva-se agora.\n Continuar com Facebook \n Compartilhar\n https://www.salvadordabahia.com/eventos/bando-de-teatro-olodum-em-oficina-de-performance-negra-2026/\n Copiar link \r\n Link copiado! \r\n Cookie Consent\n Usamos cookies para melhorar sua experiência em nosso site. Ao utilizar nosso site, você concorda com o uso de cookies .\n Preferências Recusar Aceitar Todos \n Preferências de Cookies\n &times; \n Gerencie suas preferências de cookies abaixo:\n Toggle Essenciais Essenciais \n Cookies essenciais permitem funções básicas e são necessários para o funcionamento adequado do site.\n Nome\n Descrição\n Duração\n Cookie Preferences\n This cookie is used to store the user's cookie consent preferences.\n 30 days\n Toggle Google Tag Manager Google Tag Manager \n Google Tag Manager simplifies the management of marketing tags on your website without code changes.\n Nome\n Descrição\n Duração\n cookiePreferences\n Registers cookie preferences of a user\n 2 years\n td\n Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator.\n session\n Toggle Login Login \n These cookies are used for managing login functionality on this website.\n Nome\n Descrição\n Duração\n wordpress_logged_in\n Used to store logged-in users.\n Persistent\n wordpress_sec\n Used to track the user across multiple sessions.\n 15 days\n wordpress_test_cookie\n Used to determine if cookies are enabled.\n Session\n Toggle Estatísticas Estatísticas \n Cookies de estatísticas coletam informações de forma anônima. Essas informações nos ajudam a entender como os visitantes utilizam nosso site.\n Toggle Google Analytics Google Analytics \n Google Analytics is a powerful tool that tracks and analyzes website traffic for informed marketing decisions.\n Service URL: policies.google.com (opens in a new window) \n Nome\n Descrição\n Duração\n _gat\n Used to monitor number of Google Analytics server requests when using Google Tag Manager\n 1 minute\n __utmt\n Used to monitor number of Google Analytics server requests\n 10 minutes\n __utmb\n Used to distinguish new sessions and visits. This cookie is set when the GA.js javascript library is loaded and there is no existing __utmb cookie. The cookie is updated every time data is sent to the Google Analytics server.\n 30 minutes after last activity\n __utmc\n Used only with old Urchin versions of Google Analytics and not with GA.js. Was used to distinguish between new sessions and visits at the end of a session.\n End of session (browser)\n __utmz\n Contains information about the traffic source or campaign that directed user to the website. The cookie is set when the GA.js javascript is loaded and updated when data is sent to the Google Anaytics server\n 6 months after last activity\n __utmv\n Contains custom information set by the web developer via the _setCustomVar method in Google Analytics. This cookie is updated every time new data is sent to the Google Analytics server.\n 2 years after last activity\n __utmx\n Used to determine whether a user is included in an A / B or Multivariate test.\n 18 months\n _ga\n ID used to identify users\n 2 years\n _gali\n Used by Google Analytics to determine which links on a page are being clicked\n 30 seconds\n _ga_\n ID used to identify users\n 2 years\n _gid\n ID used to identify users for 24 hours after last activity\n 24 hours\n __utma\n ID used to identify users and sessions\n 2 years after last activity\n _gac_\n Contains information related to marketing campaigns of the user. These are shared with Google AdWords / Google Ads when the Google Ads and Google Analytics accounts are linked together.\n 90 days\n Toggle Política de Cookies Política de Cookies \n Você p",
+   "jsonld": [
+    "{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/www.salvadordabahia.com\\/eventos\\/bando-de-teatro-olodum-em-oficina-de-performance-negra-2026\\/\",\"url\":\"https:\\/\\/www.salvadordabahia.com\\/eventos\\/bando-de-teatro-olodum-em-oficina-de-performance-negra-2026\\/\",\"name\":\"Bando de Teatro Olodum em Oficina de Performance Negra 2026 - Salvador da Bahia\",\"isPartOf\":{\"@id\":\"https:\\/\\/www.salvadordabahia.com\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/www.salvadordabahia.com\\/eventos\\/bando-de-teatro-olodum-em-oficina-de-performance-negra-2026\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/www.salvadordabahia.com\\/eventos\\/bando-de-teatro-olodum-em-oficina-de-performance-negra-2026\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/www.salvadordabahia.com\\/wp-content\\/uploads\\/2026\\/07\\/oficina-de-performance-negra.png\",\"datePublished\":\"2026-07-20T17:51:28+00:00\",\"dateModified\":\"2026-07-20T17:51:56+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/www.salvadordabahia.com\\/eventos\\/bando-de-teatro-olodum-em-oficina-de-performance-negra-2026\\/#breadcrumb\"},\"inLanguage\":\"pt-BR\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/www.salvadordabahia.com\\/eventos\\/bando-de-teatro-olodum-em-oficina-de-performance-negra-2026\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"pt-BR\",\"@id\":\"https:\\/\\/www.salvadordabahia.com\\/eventos\\/bando-de-teatro-olodum-em-oficina-de-performance-negra-2026\\/#primaryimage\",\"url\":\"https:\\/\\/www.salvadordabahia.com\\/wp-content\\/uploads\\/2026\\/07\\/oficina-de-performance-negra.png\",\"contentUrl\":\"https:\\/\\/www.salvadordabahia.com\\/wp-content\\/uploads\\/2026\\/07\\/oficina-de-performance-negra.png\",\"width\":677,\"height\":357},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/www.salvadordabahia.com\\/eventos\\/bando-de-teatro-olodum-em-oficina-de-performance-negra-2026\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Início\",\"item\":\"https:\\/\\/www.salvadordabahia.com\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Eventos\",\"item\":\"https:\\/\\/www.salvadordabahia.com\\/eventos\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Bando de Teatro Olodum em Oficina de Performance Negra 2026\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/www.salvadordabahia.com\\/#website\",\"url\":\"https:\\/\\/www.salvadordabahia.com\\/\",\"name\":\"Salvador da Bahia\",\"description\":\"Salvador tem tudo para você curtir do seu jeito: festas, praias, roteiros incríveis e alegria em cada canto da cidade.\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/www.salvadordabahia.com\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"pt-BR\"}]}"
+   ]
+  }
+ ]
+}
