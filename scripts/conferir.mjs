@@ -41,7 +41,7 @@ function datasNoTexto(t) {
     const d = +m[1], mm = +m[2];
     if (d >= 1 && d <= 31 && mm >= 1 && mm <= 12) out.add(comAno(d, mm, m[3]));
   }
-  const re = new RegExp(`((?:\\d{1,2}º?(?:\\s*\\([^)]{0,20}\\))?\\s*(?:,|e|a|à|até|-|–)?\\s*){1,12})de\\s+(${MESES.join("|")})(?:\\s+de\\s+(\\d{4}))?`, "gi");
+  const re = new RegExp(`((?:\\d{1,2}º?(?:\\s*\\([^)]{0,20}\\))?\\s*(?:,|e|a|à|até|-|–)?\\s*){1,12})(?:de\\s+)?(${MESES.join("|")})(?:\\s+de\\s+(\\d{4}))?`, "gi");
   for (const m of t.matchAll(re)) {
     const mm = MESES.indexOf(m[2].toLowerCase()) + 1;
     const dias = [...m[1].matchAll(/\d{1,2}/g)].map((x) => +x[0]).filter((d) => d >= 1 && d <= 31);

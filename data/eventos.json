@@ -3033,7 +3033,7 @@
    "id": "2026-11-14-ai-de-mim-que-sou-romantica-mary-jane-beck-ober-e-convidados",
    "titulo": "Ai de Mim que Sou Romântica — Mary Jane Beck, Ober e convidados",
    "categoria": "Música e cultura popular",
-   "data": "2026-11-27",
+   "data": "2026-11-14",
    "horario": "20h",
    "local": "A Marujada",
    "bairro": "Santo Antônio Além do Carmo",
@@ -3046,7 +3046,11 @@
    "fonte_nome": "Sympla",
    "fonte_url": "https://www.sympla.com.br/eventos/salvador-ba",
    "verificado_em": "2026-11-26T14:30:00-03:00",
-   "imagem": "https://images.sympla.com.br/6af4dc3c867f4.jpg"
+   "imagem": "https://images.sympla.com.br/6af4dc3c867f4.jpg",
+   "datas": [
+    "2026-11-14",
+    "2026-11-27"
+   ]
   },
   {
    "id": "2026-11-17-memorias-do-pequeno-chef",
@@ -4358,7 +4362,10 @@
    "fonte_nome": "Sympla",
    "fonte_url": "https://www.sympla.com.br/eventos/salvador-ba",
    "verificado_em": "2026-11-26T14:30:00-03:00",
-   "imagem": "https://images.sympla.com.br/6b0613ff6993b.png"
+   "imagem": "https://images.sympla.com.br/6b0613ff6993b.png",
+   "datas": [
+    "2026-11-28"
+   ]
   },
   {
    "id": "2026-11-24-um-fio-para-liberdade-mab",
@@ -4377,7 +4384,10 @@
    "fonte_nome": "Sympla",
    "fonte_url": "https://www.sympla.com.br/eventos/salvador-ba",
    "verificado_em": "2026-11-26T14:30:00-03:00",
-   "imagem": "https://images.sympla.com.br/6b061b7cbc60b.png"
+   "imagem": "https://images.sympla.com.br/6b061b7cbc60b.png",
+   "datas": [
+    "2026-11-29"
+   ]
   }
  ]
 }
